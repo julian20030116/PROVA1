@@ -1,0 +1,2697 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="it" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://streetwearness.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://streetwearness.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://streetwearness.com/collections/jordan-4.atom"/>
+  <title>Streetwearness</title>
+  <updated>2022-12-12T20:53:18+01:00</updated>
+  <author>
+    <name>Streetwearness</name>
+  </author>
+  <entry>
+    <id>https://streetwearness.com/products/7544600395948</id>
+    <published>2022-12-12T20:53:18+01:00</published>
+    <updated>2022-12-12T20:53:18+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/jordan-4-retro-canvas"/>
+    <title>Jordan 4 Retro Canvas</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/d7b793dd.jpg?v=1670874824"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7544600395948</id>
+      <title>36</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7544600395948</id>
+      <title>37</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7544600395948</id>
+      <title>38</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7544600395948</id>
+      <title>38.5</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7544600395948</id>
+      <title>39</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7544600395948</id>
+      <title>40</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7544600395948</id>
+      <title>41</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7544600395948</id>
+      <title>42</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7544600395948</id>
+      <title>42.5</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7544600395948</id>
+      <title>43</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7544600395948</id>
+      <title>44</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7544600395948</id>
+      <title>45</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7544600395948</id>
+      <title>46</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7531098636460</id>
+    <published>2022-11-21T21:52:21+01:00</published>
+    <updated>2022-11-21T21:52:21+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/jordan-4-retro-taupe-haze"/>
+    <title>Jordan 4 Retro Taupe Haze</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/f42245c6.jpg?v=1669064021"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7531098636460</id>
+      <title>36</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7531098636460</id>
+      <title>37</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7531098636460</id>
+      <title>38</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7531098636460</id>
+      <title>39</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7531098636460</id>
+      <title>40</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7531098636460</id>
+      <title>41</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7531098636460</id>
+      <title>42</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7531098636460</id>
+      <title>43</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7531098636460</id>
+      <title>44</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7531098636460</id>
+      <title>45</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7531098636460</id>
+      <title>46</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7524243603628</id>
+    <published>2022-11-12T15:08:15+01:00</published>
+    <updated>2022-11-12T15:08:15+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/jordan-4-rasta"/>
+    <title>Jordan 4 Rasta</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/beb529c7.jpg?v=1668262135"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524243603628</id>
+      <title>36</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524243603628</id>
+      <title>37</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524243603628</id>
+      <title>38</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524243603628</id>
+      <title>39</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524243603628</id>
+      <title>40</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524243603628</id>
+      <title>41</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524243603628</id>
+      <title>42</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524243603628</id>
+      <title>43</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524243603628</id>
+      <title>44</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524243603628</id>
+      <title>45</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524243603628</id>
+      <title>46</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7524240031916</id>
+    <published>2022-11-12T15:00:43+01:00</published>
+    <updated>2022-11-12T15:00:43+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/jordan-4-thunder-blu"/>
+    <title>Jordan 4 Thunder Blu</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/b0162b28.jpg?v=1668261778"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524240031916</id>
+      <title>36</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524240031916</id>
+      <title>37</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524240031916</id>
+      <title>38</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524240031916</id>
+      <title>39</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524240031916</id>
+      <title>40</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524240031916</id>
+      <title>41</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524240031916</id>
+      <title>42</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524240031916</id>
+      <title>43</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524240031916</id>
+      <title>44</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524240031916</id>
+      <title>45</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524240031916</id>
+      <title>46</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7524239605932</id>
+    <published>2022-11-12T14:59:58+01:00</published>
+    <updated>2022-11-12T14:59:58+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/jordan-4-zen"/>
+    <title>Jordan 4 Zen</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/ccae90e2.jpg?v=1668261629"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524239605932</id>
+      <title>36</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524239605932</id>
+      <title>37</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524239605932</id>
+      <title>38</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524239605932</id>
+      <title>39</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524239605932</id>
+      <title>40</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524239605932</id>
+      <title>41</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524239605932</id>
+      <title>42</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524239605932</id>
+      <title>43</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524239605932</id>
+      <title>44</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524239605932</id>
+      <title>45</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524239605932</id>
+      <title>46</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7524235968684</id>
+    <published>2022-11-12T14:50:18+01:00</published>
+    <updated>2022-11-12T14:50:18+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/jordan-4-95-neon"/>
+    <title>Jordan 4 Neon 95</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/ef93c42d.jpg?v=1668261174"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524235968684</id>
+      <title>36</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524235968684</id>
+      <title>37</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524235968684</id>
+      <title>38</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524235968684</id>
+      <title>39</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524235968684</id>
+      <title>40</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524235968684</id>
+      <title>41</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524235968684</id>
+      <title>42</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524235968684</id>
+      <title>43</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524235968684</id>
+      <title>44</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524235968684</id>
+      <title>45</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524235968684</id>
+      <title>46</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7524235280556</id>
+    <published>2022-11-12T14:48:02+01:00</published>
+    <updated>2022-11-12T14:48:02+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/jordan-4-kaws-1"/>
+    <title>Jordan 4 Kaws</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/1bfc2220.jpg?v=1668260923"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524235280556</id>
+      <title>36</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524235280556</id>
+      <title>37</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524235280556</id>
+      <title>38</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524235280556</id>
+      <title>39</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524235280556</id>
+      <title>40</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524235280556</id>
+      <title>41</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524235280556</id>
+      <title>42</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524235280556</id>
+      <title>43</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524235280556</id>
+      <title>44</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524235280556</id>
+      <title>45</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524235280556</id>
+      <title>46</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7524229054636</id>
+    <published>2022-11-12T14:38:54+01:00</published>
+    <updated>2022-11-12T14:38:54+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/jordan-4-kaws"/>
+    <title>Jordan 4 Kaws</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/103a52e6.jpg?v=1668260353"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524229054636</id>
+      <title>36</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524229054636</id>
+      <title>37</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524229054636</id>
+      <title>38</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524229054636</id>
+      <title>39</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524229054636</id>
+      <title>40</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524229054636</id>
+      <title>41</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524229054636</id>
+      <title>42</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524229054636</id>
+      <title>43</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524229054636</id>
+      <title>44</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524229054636</id>
+      <title>45</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524229054636</id>
+      <title>46</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7524228595884</id>
+    <published>2022-11-12T14:37:23+01:00</published>
+    <updated>2022-11-12T14:37:23+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/jordan-4-se-shaiko-deep-ocean"/>
+    <title>Jordan 4 SE Shaiko Deep Ocean</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/48a3dff1.jpg?v=1668260283"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524228595884</id>
+      <title>36</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524228595884</id>
+      <title>37</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524228595884</id>
+      <title>38</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524228595884</id>
+      <title>39</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524228595884</id>
+      <title>40</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524228595884</id>
+      <title>41</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524228595884</id>
+      <title>42</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524228595884</id>
+      <title>43</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524228595884</id>
+      <title>44</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524228595884</id>
+      <title>45</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524228595884</id>
+      <title>46</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7524227940524</id>
+    <published>2022-11-12T14:35:39+01:00</published>
+    <updated>2022-11-12T14:35:39+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/jordan-4-purple-1"/>
+    <title>Jordan 4 Levis</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/69348614.jpg?v=1668260190"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524227940524</id>
+      <title>36</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524227940524</id>
+      <title>37</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524227940524</id>
+      <title>38</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524227940524</id>
+      <title>39</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524227940524</id>
+      <title>40</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524227940524</id>
+      <title>41</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524227940524</id>
+      <title>42</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524227940524</id>
+      <title>43</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524227940524</id>
+      <title>44</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524227940524</id>
+      <title>45</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524227940524</id>
+      <title>46</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7524225024172</id>
+    <published>2022-11-12T14:27:00+01:00</published>
+    <updated>2022-11-12T14:27:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/jordan-4-purple"/>
+    <title>Jordan 4 Purple</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/34312a8e.jpg?v=1668260128"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524225024172</id>
+      <title>36</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524225024172</id>
+      <title>37</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524225024172</id>
+      <title>38</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524225024172</id>
+      <title>39</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524225024172</id>
+      <title>40</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524225024172</id>
+      <title>41</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524225024172</id>
+      <title>42</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524225024172</id>
+      <title>43</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524225024172</id>
+      <title>44</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524225024172</id>
+      <title>45</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524225024172</id>
+      <title>46</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7524224532652</id>
+    <published>2022-11-12T14:25:43+01:00</published>
+    <updated>2022-11-12T14:25:43+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/jordan-4-starfish"/>
+    <title>Jordan 4 Starfish</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/263b2953.jpg?v=1668259574"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524224532652</id>
+      <title>36</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524224532652</id>
+      <title>37</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524224532652</id>
+      <title>38</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524224532652</id>
+      <title>39</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524224532652</id>
+      <title>40</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524224532652</id>
+      <title>41</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524224532652</id>
+      <title>42</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524224532652</id>
+      <title>43</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524224532652</id>
+      <title>44</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524224532652</id>
+      <title>45</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524224532652</id>
+      <title>46</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7524224041132</id>
+    <published>2022-11-12T14:24:31+01:00</published>
+    <updated>2022-11-12T14:24:31+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/jordan-4-military-blue"/>
+    <title>Jordan 4 Military Blue</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/fd343e29.jpg?v=1668259489"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524224041132</id>
+      <title>36</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524224041132</id>
+      <title>37</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524224041132</id>
+      <title>38</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524224041132</id>
+      <title>39</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524224041132</id>
+      <title>40</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524224041132</id>
+      <title>41</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524224041132</id>
+      <title>42</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524224041132</id>
+      <title>43</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524224041132</id>
+      <title>44</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524224041132</id>
+      <title>45</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7524224041132</id>
+      <title>46</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7475527319724</id>
+    <published>2022-09-29T02:21:46+02:00</published>
+    <updated>2022-09-29T02:21:46+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/nike-air-jordan-4-midnight-navy"/>
+    <title>Jordan 4 Midnight Navy</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/e08fc630.jpg?v=1664410909"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527319724</id>
+      <title>36</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527319724</id>
+      <title>37</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527319724</id>
+      <title>38</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527319724</id>
+      <title>39</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527319724</id>
+      <title>40</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527319724</id>
+      <title>41</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527319724</id>
+      <title>42</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527319724</id>
+      <title>43</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527319724</id>
+      <title>44</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527319724</id>
+      <title>45</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527319724</id>
+      <title>46</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7475527286956</id>
+    <published>2022-09-29T02:21:42+02:00</published>
+    <updated>2022-09-29T02:21:42+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/nike-air-jordan-4-retro-olive-canvas"/>
+    <title>Jordan 4 Retro Olive Canvas</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/f94521da.jpg?v=1664410905"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527286956</id>
+      <title>36</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527286956</id>
+      <title>37</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527286956</id>
+      <title>38</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527286956</id>
+      <title>39</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527286956</id>
+      <title>40</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527286956</id>
+      <title>41</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527286956</id>
+      <title>42</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527286956</id>
+      <title>43</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527286956</id>
+      <title>44</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527286956</id>
+      <title>45</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527286956</id>
+      <title>46</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7475527254188</id>
+    <published>2022-09-29T02:21:37+02:00</published>
+    <updated>2022-09-29T02:21:37+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/nike-air-jordan-4-x-union-taupe-haze"/>
+    <title>Jordan 4 x Union Taupe Haze</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/2443d984.jpg?v=1664410900"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            160.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527254188</id>
+      <title>36</title>
+      <s:price currency="EUR">160.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527254188</id>
+      <title>37</title>
+      <s:price currency="EUR">160.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527254188</id>
+      <title>38</title>
+      <s:price currency="EUR">160.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527254188</id>
+      <title>39</title>
+      <s:price currency="EUR">160.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527254188</id>
+      <title>40</title>
+      <s:price currency="EUR">160.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527254188</id>
+      <title>41</title>
+      <s:price currency="EUR">160.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527254188</id>
+      <title>42</title>
+      <s:price currency="EUR">160.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527254188</id>
+      <title>43</title>
+      <s:price currency="EUR">160.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527254188</id>
+      <title>44</title>
+      <s:price currency="EUR">160.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527254188</id>
+      <title>45</title>
+      <s:price currency="EUR">160.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527254188</id>
+      <title>46</title>
+      <s:price currency="EUR">160.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7475527221420</id>
+    <published>2022-09-29T02:21:33+02:00</published>
+    <updated>2022-09-29T02:21:33+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/nike-air-jordan-4-retro-x-travis-scott-cactus-jack"/>
+    <title>Jordan 4 Retro x Travis Scott Cactus Jack</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/a37706c4.jpg?v=1664410896"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            160.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527221420</id>
+      <title>36</title>
+      <s:price currency="EUR">160.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527221420</id>
+      <title>37</title>
+      <s:price currency="EUR">160.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527221420</id>
+      <title>38</title>
+      <s:price currency="EUR">160.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527221420</id>
+      <title>39</title>
+      <s:price currency="EUR">160.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527221420</id>
+      <title>40</title>
+      <s:price currency="EUR">160.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527221420</id>
+      <title>41</title>
+      <s:price currency="EUR">160.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527221420</id>
+      <title>42</title>
+      <s:price currency="EUR">160.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527221420</id>
+      <title>43</title>
+      <s:price currency="EUR">160.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527221420</id>
+      <title>44</title>
+      <s:price currency="EUR">160.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527221420</id>
+      <title>45</title>
+      <s:price currency="EUR">160.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527221420</id>
+      <title>46</title>
+      <s:price currency="EUR">160.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7475527155884</id>
+    <published>2022-09-29T02:21:29+02:00</published>
+    <updated>2022-09-29T02:21:29+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/nike-air-jordan-4-retro-x-off-white"/>
+    <title>Jordan 4 Retro x Off-White</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/b34f07cd.jpg?v=1664410891"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            160.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527155884</id>
+      <title>36</title>
+      <s:price currency="EUR">160.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527155884</id>
+      <title>37</title>
+      <s:price currency="EUR">160.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527155884</id>
+      <title>38</title>
+      <s:price currency="EUR">160.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527155884</id>
+      <title>39</title>
+      <s:price currency="EUR">160.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527155884</id>
+      <title>40</title>
+      <s:price currency="EUR">160.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527155884</id>
+      <title>41</title>
+      <s:price currency="EUR">160.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527155884</id>
+      <title>42</title>
+      <s:price currency="EUR">160.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527155884</id>
+      <title>43</title>
+      <s:price currency="EUR">160.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527155884</id>
+      <title>44</title>
+      <s:price currency="EUR">160.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527155884</id>
+      <title>45</title>
+      <s:price currency="EUR">160.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527155884</id>
+      <title>46</title>
+      <s:price currency="EUR">160.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7475527123116</id>
+    <published>2022-09-29T02:21:24+02:00</published>
+    <updated>2022-09-29T02:21:24+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/nike-air-jordan-4-retro-military-black"/>
+    <title>Jordan 4 Retro Military Black</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/f4efe86f.jpg?v=1664410887"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527123116</id>
+      <title>36</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527123116</id>
+      <title>37</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527123116</id>
+      <title>38</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527123116</id>
+      <title>39</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527123116</id>
+      <title>40</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527123116</id>
+      <title>40.5</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527123116</id>
+      <title>41</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527123116</id>
+      <title>42</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527123116</id>
+      <title>43</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527123116</id>
+      <title>44</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527123116</id>
+      <title>44.5</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527123116</id>
+      <title>45</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527123116</id>
+      <title>46</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7475527057580</id>
+    <published>2022-09-29T02:21:19+02:00</published>
+    <updated>2022-09-29T02:21:19+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/nike-air-jordan-4-retro-psg-paris-saint-germain"/>
+    <title>Jordan 4 Retro PSG Paris Saint-Germain</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/41b0ff7d.jpg?v=1664410882"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527057580</id>
+      <title>36</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527057580</id>
+      <title>37</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527057580</id>
+      <title>38</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527057580</id>
+      <title>39</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527057580</id>
+      <title>40</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527057580</id>
+      <title>41</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527057580</id>
+      <title>42</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527057580</id>
+      <title>43</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527057580</id>
+      <title>44</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527057580</id>
+      <title>45</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527057580</id>
+      <title>46</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7475527024812</id>
+    <published>2022-09-29T02:21:14+02:00</published>
+    <updated>2022-09-29T02:21:14+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/nike-air-jordan-4-retro-green-metallic"/>
+    <title>Jordan 4 Retro Green Metallic</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/8e072e30.jpg?v=1664410877"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527024812</id>
+      <title>36</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527024812</id>
+      <title>37</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527024812</id>
+      <title>38</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527024812</id>
+      <title>39</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527024812</id>
+      <title>40</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527024812</id>
+      <title>41</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527024812</id>
+      <title>42</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527024812</id>
+      <title>43</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527024812</id>
+      <title>44</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527024812</id>
+      <title>45</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475527024812</id>
+      <title>46</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7475526992044</id>
+    <published>2022-09-29T02:21:10+02:00</published>
+    <updated>2022-09-29T02:21:10+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/nike-air-jordan-4-white-oreo"/>
+    <title>Jordan 4 White Oreo</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/6ef35707.jpg?v=1664410873"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475526992044</id>
+      <title>36</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475526992044</id>
+      <title>37</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475526992044</id>
+      <title>38</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475526992044</id>
+      <title>39</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475526992044</id>
+      <title>40</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475526992044</id>
+      <title>41</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475526992044</id>
+      <title>42</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475526992044</id>
+      <title>43</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475526992044</id>
+      <title>44</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475526992044</id>
+      <title>45</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475526992044</id>
+      <title>46</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7475526959276</id>
+    <published>2022-09-29T02:21:06+02:00</published>
+    <updated>2022-09-29T02:21:06+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/nike-air-jordan-4-retro-university-blue"/>
+    <title>Jordan 4 Retro University Blue</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/47ad23d0.jpg?v=1664410868"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">Jordan 4 Retro University Blue<img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725">
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475526959276</id>
+      <title>36</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475526959276</id>
+      <title>37</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475526959276</id>
+      <title>38</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475526959276</id>
+      <title>39</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475526959276</id>
+      <title>40</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475526959276</id>
+      <title>40.5</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475526959276</id>
+      <title>41</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475526959276</id>
+      <title>42</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475526959276</id>
+      <title>43</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475526959276</id>
+      <title>44</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475526959276</id>
+      <title>45</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475526959276</id>
+      <title>46</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7475526893740</id>
+    <published>2022-09-29T02:21:01+02:00</published>
+    <updated>2022-09-29T02:21:01+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/nike-air-jordan-4-retro-motorsports"/>
+    <title>Jordan 4 Retro Motorsports</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/f8f54588.jpg?v=1664410864"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475526893740</id>
+      <title>36</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475526893740</id>
+      <title>37</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475526893740</id>
+      <title>38</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475526893740</id>
+      <title>39</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475526893740</id>
+      <title>40</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475526893740</id>
+      <title>41</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475526893740</id>
+      <title>42</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475526893740</id>
+      <title>43</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475526893740</id>
+      <title>44</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475526893740</id>
+      <title>45</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475526893740</id>
+      <title>46</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7475526860972</id>
+    <published>2022-09-29T02:20:54+02:00</published>
+    <updated>2022-09-29T02:20:54+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/nike-air-jordan-4-retro-purple-metallic"/>
+    <title>Jordan 4 Retro Purple Metallic</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/31c13237.jpg?v=1664410857"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475526860972</id>
+      <title>36</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475526860972</id>
+      <title>37</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475526860972</id>
+      <title>38</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475526860972</id>
+      <title>39</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475526860972</id>
+      <title>40</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475526860972</id>
+      <title>41</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475526860972</id>
+      <title>42</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475526860972</id>
+      <title>43</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475526860972</id>
+      <title>44</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475526860972</id>
+      <title>45</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475526860972</id>
+      <title>46</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

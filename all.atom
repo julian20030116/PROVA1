@@ -1,0 +1,1587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="it" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://streetwearness.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://streetwearness.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://streetwearness.com/collections/all.atom"/>
+  <title>Streetwearness</title>
+  <updated>2022-12-18T23:38:48+01:00</updated>
+  <author>
+    <name>Streetwearness</name>
+  </author>
+  <entry>
+    <id>https://streetwearness.com/products/7547287240876</id>
+    <published>2022-12-18T23:38:48+01:00</published>
+    <updated>2022-12-18T23:38:48+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/jordan-1-low-x-travis-scott-black-phantom"/>
+    <title>Jordan 1 Low x Travis Scott Black Phantom</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/eda7c0dd.jpg?v=1671403194"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            164.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">Jordan 1 High x Travis Scott<img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1">
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7547287240876</id>
+      <title>36</title>
+      <s:price currency="EUR">164.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7547287240876</id>
+      <title>37</title>
+      <s:price currency="EUR">164.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7547287240876</id>
+      <title>38</title>
+      <s:price currency="EUR">164.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7547287240876</id>
+      <title>39</title>
+      <s:price currency="EUR">164.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7547287240876</id>
+      <title>40</title>
+      <s:price currency="EUR">164.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7547287240876</id>
+      <title>40.5</title>
+      <s:price currency="EUR">164.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7547287240876</id>
+      <title>41</title>
+      <s:price currency="EUR">164.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7547287240876</id>
+      <title>42</title>
+      <s:price currency="EUR">164.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7547287240876</id>
+      <title>42.5</title>
+      <s:price currency="EUR">164.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7547287240876</id>
+      <title>43</title>
+      <s:price currency="EUR">164.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7547287240876</id>
+      <title>44</title>
+      <s:price currency="EUR">164.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7547287240876</id>
+      <title>45</title>
+      <s:price currency="EUR">164.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7547287240876</id>
+      <title>46</title>
+      <s:price currency="EUR">164.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7547286880428</id>
+    <published>2022-12-18T23:33:58+01:00</published>
+    <updated>2022-12-18T23:33:58+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/jordan-1-low-x-travis-scott"/>
+    <title>Jordan 1 Low x Travis Scott</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/06047b9b.jpg?v=1671402892"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            159.00 - 160.00
+            <a href="https://streetwearness.com/products/jordan-1-low-x-travis-scott">(13 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">Jordan 1 High x Travis Scott<img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1">
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7547286880428</id>
+      <title>36</title>
+      <s:price currency="EUR">159.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7547286880428</id>
+      <title>37</title>
+      <s:price currency="EUR">159.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7547286880428</id>
+      <title>38</title>
+      <s:price currency="EUR">159.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7547286880428</id>
+      <title>39</title>
+      <s:price currency="EUR">159.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7547286880428</id>
+      <title>40</title>
+      <s:price currency="EUR">159.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7547286880428</id>
+      <title>40.5</title>
+      <s:price currency="EUR">160.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7547286880428</id>
+      <title>41</title>
+      <s:price currency="EUR">159.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7547286880428</id>
+      <title>42</title>
+      <s:price currency="EUR">159.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7547286880428</id>
+      <title>42.5</title>
+      <s:price currency="EUR">159.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7547286880428</id>
+      <title>43</title>
+      <s:price currency="EUR">159.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7547286880428</id>
+      <title>44</title>
+      <s:price currency="EUR">159.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7547286880428</id>
+      <title>45</title>
+      <s:price currency="EUR">159.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7547286880428</id>
+      <title>46</title>
+      <s:price currency="EUR">159.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7547264827564</id>
+    <published>2022-12-18T19:57:29+01:00</published>
+    <updated>2022-12-18T19:57:29+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/copia-del-tuta-trapstar"/>
+    <title>Tuta Trapstar</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/image_8d9373e0-4568-4038-9442-a60e1761bb15.jpg?v=1671389874"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            139.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7547264827564</id>
+      <title>XS</title>
+      <s:price currency="EUR">139.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7547264827564</id>
+      <title>S</title>
+      <s:price currency="EUR">139.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7547264827564</id>
+      <title>M</title>
+      <s:price currency="EUR">139.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7547264827564</id>
+      <title>L</title>
+      <s:price currency="EUR">139.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7547264827564</id>
+      <title>XL</title>
+      <s:price currency="EUR">139.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7545912590508</id>
+    <published>2022-12-15T21:50:59+01:00</published>
+    <updated>2022-12-15T21:50:59+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/giubbotto-trapstar-donna-2"/>
+    <title>Giubbotto Trapstar Donna</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/cc5bdeee_2e9b9ea6-2025-413d-8079-26c79d338c14.jpg?v=1671137484"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            189.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7545912590508</id>
+      <title>S</title>
+      <s:price currency="EUR">189.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7545912590508</id>
+      <title>M</title>
+      <s:price currency="EUR">189.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7545912590508</id>
+      <title>L</title>
+      <s:price currency="EUR">189.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7545912590508</id>
+      <title>XL</title>
+      <s:price currency="EUR">189.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7545912590508</id>
+      <title>XXL</title>
+      <s:price currency="EUR">189.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7545912098988</id>
+    <published>2022-12-15T21:48:26+01:00</published>
+    <updated>2022-12-15T21:48:26+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/giubbotto-trapstar-donna-1"/>
+    <title>Giubbotto Trapstar Donna</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/586f1ff8.jpg?v=1671137333"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            189.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7545912098988</id>
+      <title>S</title>
+      <s:price currency="EUR">189.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7545912098988</id>
+      <title>M</title>
+      <s:price currency="EUR">189.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7545912098988</id>
+      <title>L</title>
+      <s:price currency="EUR">189.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7545912098988</id>
+      <title>XL</title>
+      <s:price currency="EUR">189.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7545912098988</id>
+      <title>XXL</title>
+      <s:price currency="EUR">189.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7545911869612</id>
+    <published>2022-12-15T21:47:11+01:00</published>
+    <updated>2022-12-15T21:47:11+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/giubbotto-trapstar-donna"/>
+    <title>Giubbotto Trapstar Donna</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/dbac1119.jpg?v=1671137264"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            189.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7545911869612</id>
+      <title>S</title>
+      <s:price currency="EUR">189.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7545911869612</id>
+      <title>M</title>
+      <s:price currency="EUR">189.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7545911869612</id>
+      <title>L</title>
+      <s:price currency="EUR">189.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7545911869612</id>
+      <title>XL</title>
+      <s:price currency="EUR">189.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7545911869612</id>
+      <title>XXL</title>
+      <s:price currency="EUR">189.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7545899286700</id>
+    <published>2022-12-15T21:20:32+01:00</published>
+    <updated>2022-12-15T21:20:32+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/copia-del-tuta-completa-tech-fleece"/>
+    <title>Copia del Tuta Completa Tech Fleece</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/IMG_4013.heic?v=1671135703"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            119.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7545899286700</id>
+      <title>XS</title>
+      <s:price currency="EUR">119.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7545899286700</id>
+      <title>S</title>
+      <s:price currency="EUR">119.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7545899286700</id>
+      <title>M</title>
+      <s:price currency="EUR">119.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7545897189548</id>
+    <published>2022-12-15T21:12:22+01:00</published>
+    <updated>2022-12-15T21:12:22+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/tuta-completa-tech-fleece-26"/>
+    <title>Tuta Completa Tech Fleece</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/IMG_3959.heic?v=1671135189"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            119.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7545897189548</id>
+      <title>S</title>
+      <s:price currency="EUR">119.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7545897189548</id>
+      <title>M</title>
+      <s:price currency="EUR">119.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7545896632492</id>
+    <published>2022-12-15T21:10:45+01:00</published>
+    <updated>2022-12-15T21:10:45+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/tuta-completa-tech-fleece-25"/>
+    <title>Tuta Completa Tech Fleece</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/IMG_4005.heic?v=1671135077"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            119.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7545896632492</id>
+      <title>XS</title>
+      <s:price currency="EUR">119.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7545896632492</id>
+      <title>S</title>
+      <s:price currency="EUR">119.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7545896632492</id>
+      <title>M</title>
+      <s:price currency="EUR">119.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7545896009900</id>
+    <published>2022-12-15T21:08:51+01:00</published>
+    <updated>2022-12-15T21:08:51+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/tuta-completa-tech-fleece-24"/>
+    <title>Tuta Completa Tech Fleece</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/IMG_4003.heic?v=1671135000"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            119.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7545896009900</id>
+      <title>XS</title>
+      <s:price currency="EUR">119.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7545896009900</id>
+      <title>S</title>
+      <s:price currency="EUR">119.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7545896009900</id>
+      <title>M</title>
+      <s:price currency="EUR">119.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7545895551148</id>
+    <published>2022-12-15T21:07:21+01:00</published>
+    <updated>2022-12-15T21:07:21+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/tuta-completa-tech-fleece-light-grey"/>
+    <title>Tuta Completa Tech Fleece Light Grey</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/IMG_3966.heic?v=1671134887"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            119.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7545895551148</id>
+      <title>XS</title>
+      <s:price currency="EUR">119.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7545895551148</id>
+      <title>S</title>
+      <s:price currency="EUR">119.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7545895551148</id>
+      <title>M</title>
+      <s:price currency="EUR">119.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7545895354540</id>
+    <published>2022-12-15T21:06:08+01:00</published>
+    <updated>2022-12-15T21:06:08+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/tuta-completa-tech-fleece-caramel"/>
+    <title>Tuta Completa Tech Fleece Caramel</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/IMG_3977.heic?v=1671134805"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            119.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7545895354540</id>
+      <title>XS</title>
+      <s:price currency="EUR">119.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7545895354540</id>
+      <title>S</title>
+      <s:price currency="EUR">119.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7545895354540</id>
+      <title>M</title>
+      <s:price currency="EUR">119.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7545894699180</id>
+    <published>2022-12-15T21:03:42+01:00</published>
+    <updated>2022-12-15T21:03:42+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/tuta-completa-tech-fleece-23"/>
+    <title>Tuta Completa Tech Fleece</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/IMG_4008.heic?v=1671134671"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            119.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7545894699180</id>
+      <title>XXS</title>
+      <s:price currency="EUR">119.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7545894699180</id>
+      <title>XS</title>
+      <s:price currency="EUR">119.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7545894699180</id>
+      <title>S</title>
+      <s:price currency="EUR">119.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7545894699180</id>
+      <title>M</title>
+      <s:price currency="EUR">119.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7545894273196</id>
+    <published>2022-12-15T21:02:01+01:00</published>
+    <updated>2022-12-15T21:02:01+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/tuta-completa-tech-fleece-22"/>
+    <title>Tuta Completa Tech Fleece</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/IMG_3994.heic?v=1671134558"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            119.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7545894273196</id>
+      <title>M</title>
+      <s:price currency="EUR">119.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7545894076588</id>
+    <published>2022-12-15T21:00:23+01:00</published>
+    <updated>2022-12-15T21:00:23+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/tuta-completa-tech-fleece-21"/>
+    <title>Tuta Completa Tech Fleece</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/IMG_3985.heic?v=1671134469"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            119.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7545894076588</id>
+      <title>XS</title>
+      <s:price currency="EUR">119.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7545894076588</id>
+      <title>S</title>
+      <s:price currency="EUR">119.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7545894076588</id>
+      <title>M</title>
+      <s:price currency="EUR">119.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7545893585068</id>
+    <published>2022-12-15T20:57:05+01:00</published>
+    <updated>2022-12-15T20:57:05+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/tuta-completa-tech-fleece-20"/>
+    <title>Tuta Completa Tech Fleece</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/IMG_3974.heic?v=1671134271"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            119.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7545893585068</id>
+      <title>M</title>
+      <s:price currency="EUR">119.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7545893191852</id>
+    <published>2022-12-15T20:55:35+01:00</published>
+    <updated>2022-12-15T20:55:35+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/tuta-completa-tech-fleece-19"/>
+    <title>Tuta Completa Tech Fleece</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/IMG_3989.heic?v=1671134191"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            119.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7545893191852</id>
+      <title>XS</title>
+      <s:price currency="EUR">119.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7545893191852</id>
+      <title>S</title>
+      <s:price currency="EUR">119.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7545893191852</id>
+      <title>M</title>
+      <s:price currency="EUR">119.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7545892110508</id>
+    <published>2022-12-15T20:51:45+01:00</published>
+    <updated>2022-12-15T20:51:45+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/tuta-completa-tech-fleece-18"/>
+    <title>Tuta Completa Tech Fleece</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/IMG_3963.heic?v=1671133969"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            119.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7545892110508</id>
+      <title>XS</title>
+      <s:price currency="EUR">119.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7545892110508</id>
+      <title>S</title>
+      <s:price currency="EUR">119.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7545892110508</id>
+      <title>M</title>
+      <s:price currency="EUR">119.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7545891127468</id>
+    <published>2022-12-15T20:46:26+01:00</published>
+    <updated>2022-12-15T20:46:26+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/tuta-completa-tech-fleece-17"/>
+    <title>Tuta Completa Tech Fleece</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/IMG_3982.heic?v=1671133899"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            119.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7545891127468</id>
+      <title>XS</title>
+      <s:price currency="EUR">119.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7545891127468</id>
+      <title>S</title>
+      <s:price currency="EUR">119.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7545891127468</id>
+      <title>M</title>
+      <s:price currency="EUR">119.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7544600395948</id>
+    <published>2022-12-12T20:53:18+01:00</published>
+    <updated>2022-12-12T20:53:18+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/jordan-4-retro-canvas"/>
+    <title>Jordan 4 Retro Canvas</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/d7b793dd.jpg?v=1670874824"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7544600395948</id>
+      <title>36</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7544600395948</id>
+      <title>37</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7544600395948</id>
+      <title>38</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7544600395948</id>
+      <title>38.5</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7544600395948</id>
+      <title>39</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7544600395948</id>
+      <title>40</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7544600395948</id>
+      <title>41</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7544600395948</id>
+      <title>42</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7544600395948</id>
+      <title>42.5</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7544600395948</id>
+      <title>43</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7544600395948</id>
+      <title>44</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7544600395948</id>
+      <title>45</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7544600395948</id>
+      <title>46</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7541666218156</id>
+    <published>2022-12-08T00:26:02+01:00</published>
+    <updated>2022-12-08T00:26:02+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/jordan-1-valentines-day"/>
+    <title>Jordan 1 Valentine&apos;s Day</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/21a38f75.jpg?v=1670455592"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">Jordan 1 Low x Travis Scott<img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725">
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7541666218156</id>
+      <title>36</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7541666218156</id>
+      <title>37</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7541666218156</id>
+      <title>38</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7541666218156</id>
+      <title>39</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7541666218156</id>
+      <title>40</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7541666218156</id>
+      <title>41</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7541666218156</id>
+      <title>42</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7541666218156</id>
+      <title>43</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7541666218156</id>
+      <title>44</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7541666218156</id>
+      <title>45</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7541666218156</id>
+      <title>46</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7538895880364</id>
+    <published>2022-12-03T17:50:25+01:00</published>
+    <updated>2022-12-03T17:50:25+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/copia-del-tuta-completa-lacoste"/>
+    <title>Tuta Completa Lacoste</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/3288962022_jpg.png?v=1670086235"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            129.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7538895880364</id>
+      <title>S</title>
+      <s:price currency="EUR">129.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7538895880364</id>
+      <title>M</title>
+      <s:price currency="EUR">129.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7538895880364</id>
+      <title>L</title>
+      <s:price currency="EUR">129.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7538895880364</id>
+      <title>XL</title>
+      <s:price currency="EUR">129.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7538895814828</id>
+    <published>2022-12-03T17:50:11+01:00</published>
+    <updated>2022-12-03T17:50:11+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/tuta-completa-lacoste-8"/>
+    <title>Tuta Completa Lacoste</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/3288962017.jpg?v=1670086221"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            129.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7538895814828</id>
+      <title>S</title>
+      <s:price currency="EUR">129.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7538895814828</id>
+      <title>M</title>
+      <s:price currency="EUR">129.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7538895814828</id>
+      <title>L</title>
+      <s:price currency="EUR">129.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7538895814828</id>
+      <title>XL</title>
+      <s:price currency="EUR">129.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7538895749292</id>
+    <published>2022-12-03T17:49:32+01:00</published>
+    <updated>2022-12-03T17:49:32+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/tuta-completa-lacoste-7"/>
+    <title>Tuta Completa Lacoste</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/3288961774_jpg.png?v=1670086203"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            129.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7538895749292</id>
+      <title>S</title>
+      <s:price currency="EUR">129.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7538895749292</id>
+      <title>M</title>
+      <s:price currency="EUR">129.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7538895749292</id>
+      <title>L</title>
+      <s:price currency="EUR">129.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7538895749292</id>
+      <title>XL</title>
+      <s:price currency="EUR">129.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7538895618220</id>
+    <published>2022-12-03T17:48:16+01:00</published>
+    <updated>2022-12-03T17:48:16+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/tuta-completa-lacoste-6"/>
+    <title>Tuta Completa Lacoste</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/3288960320_jpg.png?v=1670086155"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            129.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7538895618220</id>
+      <title>S</title>
+      <s:price currency="EUR">129.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7538895618220</id>
+      <title>M</title>
+      <s:price currency="EUR">129.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7538895618220</id>
+      <title>L</title>
+      <s:price currency="EUR">129.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7538895618220</id>
+      <title>XL</title>
+      <s:price currency="EUR">129.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

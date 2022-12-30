@@ -1,0 +1,1547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="it" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://streetwearness.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://streetwearness.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://streetwearness.com/collections/giacca-primavera-autunno.atom"/>
+  <title>Streetwearness</title>
+  <updated>2022-09-29T01:37:47+02:00</updated>
+  <author>
+    <name>Streetwearness</name>
+  </author>
+  <entry>
+    <id>https://streetwearness.com/products/7475509297324</id>
+    <published>2022-09-29T01:37:47+02:00</published>
+    <updated>2022-09-29T01:37:47+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/giacca-leggera-burberry"/>
+    <title>Giacca Leggera B</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/4fac6684.jpg?v=1664408270"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            109.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475509297324</id>
+      <title>S</title>
+      <s:price currency="EUR">109.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475509297324</id>
+      <title>M</title>
+      <s:price currency="EUR">109.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475509297324</id>
+      <title>L</title>
+      <s:price currency="EUR">109.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475509297324</id>
+      <title>XL</title>
+      <s:price currency="EUR">109.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475509297324</id>
+      <title>XXL</title>
+      <s:price currency="EUR">109.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7475509264556</id>
+    <published>2022-09-29T01:37:44+02:00</published>
+    <updated>2022-09-29T01:37:44+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/copia-del-giacca-leggera-burberry"/>
+    <title>Giacca Leggera GG</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/281257ab.jpg?v=1664408266"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            109.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475509264556</id>
+      <title>S</title>
+      <s:price currency="EUR">109.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475509264556</id>
+      <title>M</title>
+      <s:price currency="EUR">109.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475509264556</id>
+      <title>L</title>
+      <s:price currency="EUR">109.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475509264556</id>
+      <title>XL</title>
+      <s:price currency="EUR">109.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475509264556</id>
+      <title>XXL</title>
+      <s:price currency="EUR">109.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7475509231788</id>
+    <published>2022-09-29T01:37:39+02:00</published>
+    <updated>2022-09-29T01:37:39+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/giacca-leggera-gucci"/>
+    <title>Giacca Leggera LV</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/4ad65953.jpg?v=1664408263"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            109.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475509231788</id>
+      <title>S</title>
+      <s:price currency="EUR">109.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475509231788</id>
+      <title>M</title>
+      <s:price currency="EUR">109.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475509231788</id>
+      <title>L</title>
+      <s:price currency="EUR">109.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475509231788</id>
+      <title>XL</title>
+      <s:price currency="EUR">109.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475509231788</id>
+      <title>XXL</title>
+      <s:price currency="EUR">109.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7475509199020</id>
+    <published>2022-09-29T01:37:32+02:00</published>
+    <updated>2022-09-29T01:37:32+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/giacca-leggera-louis-vuitton"/>
+    <title>Giacca Varsity LV</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/44f245c9.jpg?v=1664408258"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            129.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475509199020</id>
+      <title>S</title>
+      <s:price currency="EUR">129.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475509199020</id>
+      <title>M</title>
+      <s:price currency="EUR">129.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475509199020</id>
+      <title>L</title>
+      <s:price currency="EUR">129.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475509199020</id>
+      <title>XL</title>
+      <s:price currency="EUR">129.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475509199020</id>
+      <title>XXL</title>
+      <s:price currency="EUR">129.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7475509166252</id>
+    <published>2022-09-29T01:37:29+02:00</published>
+    <updated>2022-09-29T01:37:29+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/giacca-varsity-louis-vuitton"/>
+    <title>Giacca Varsity LV</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/825167d3.jpg?v=1664408251"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            129.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475509166252</id>
+      <title>S</title>
+      <s:price currency="EUR">129.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475509166252</id>
+      <title>M</title>
+      <s:price currency="EUR">129.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475509166252</id>
+      <title>L</title>
+      <s:price currency="EUR">129.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475509166252</id>
+      <title>XL</title>
+      <s:price currency="EUR">129.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475509166252</id>
+      <title>XXL</title>
+      <s:price currency="EUR">129.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7475509133484</id>
+    <published>2022-09-29T01:37:23+02:00</published>
+    <updated>2022-09-29T01:37:23+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/giacca-varsity-louis-vuitton-1"/>
+    <title>Giacca Varsity LV</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/3e62a75f.jpg?v=1664408248"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            129.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475509133484</id>
+      <title>S</title>
+      <s:price currency="EUR">129.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475509133484</id>
+      <title>M</title>
+      <s:price currency="EUR">129.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475509133484</id>
+      <title>L</title>
+      <s:price currency="EUR">129.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475509133484</id>
+      <title>XL</title>
+      <s:price currency="EUR">129.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475509133484</id>
+      <title>XXL</title>
+      <s:price currency="EUR">129.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7475509067948</id>
+    <published>2022-09-29T01:37:19+02:00</published>
+    <updated>2022-09-29T01:37:19+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/giacca-varsity-louis-vuitton-2"/>
+    <title>Giacca Varsity LV</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/a09a80ee.jpg?v=1664408242"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            129.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475509067948</id>
+      <title>S</title>
+      <s:price currency="EUR">129.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475509067948</id>
+      <title>M</title>
+      <s:price currency="EUR">129.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475509067948</id>
+      <title>L</title>
+      <s:price currency="EUR">129.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475509067948</id>
+      <title>XL</title>
+      <s:price currency="EUR">129.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475509067948</id>
+      <title>XXL</title>
+      <s:price currency="EUR">129.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7475508969644</id>
+    <published>2022-09-29T01:37:14+02:00</published>
+    <updated>2022-09-29T01:37:14+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/giacca-varsity-louis-vuitton-3"/>
+    <title>Giacca Leggera B</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/98c55afc.jpg?v=1664408238"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            119.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475508969644</id>
+      <title>S</title>
+      <s:price currency="EUR">119.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475508969644</id>
+      <title>M</title>
+      <s:price currency="EUR">119.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475508969644</id>
+      <title>L</title>
+      <s:price currency="EUR">119.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475508969644</id>
+      <title>XL</title>
+      <s:price currency="EUR">119.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475508969644</id>
+      <title>XXL</title>
+      <s:price currency="EUR">119.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7475508936876</id>
+    <published>2022-09-29T01:37:08+02:00</published>
+    <updated>2022-09-29T01:37:08+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/giacca-leggera-burberry-1"/>
+    <title>Giacca Leggera LV</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/c7a107e0.jpg?v=1664408233"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            119.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475508936876</id>
+      <title>S</title>
+      <s:price currency="EUR">119.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475508936876</id>
+      <title>M</title>
+      <s:price currency="EUR">119.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475508936876</id>
+      <title>L</title>
+      <s:price currency="EUR">119.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475508936876</id>
+      <title>XL</title>
+      <s:price currency="EUR">119.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475508936876</id>
+      <title>XXL</title>
+      <s:price currency="EUR">119.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7475508904108</id>
+    <published>2022-09-29T01:36:59+02:00</published>
+    <updated>2022-09-29T01:36:59+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/giacca-leggera-louis-vuitton-1"/>
+    <title>Giacca Leggera LV</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/6c877a3e.jpg?v=1664408224"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            119.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475508904108</id>
+      <title>S</title>
+      <s:price currency="EUR">119.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475508904108</id>
+      <title>M</title>
+      <s:price currency="EUR">119.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475508904108</id>
+      <title>L</title>
+      <s:price currency="EUR">119.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475508904108</id>
+      <title>XL</title>
+      <s:price currency="EUR">119.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475508904108</id>
+      <title>XXL</title>
+      <s:price currency="EUR">119.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7475508871340</id>
+    <published>2022-09-29T01:36:55+02:00</published>
+    <updated>2022-09-29T01:36:55+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/giacca-leggera-burberry-2"/>
+    <title>Giacca Leggera B</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/be88f3d7.jpg?v=1664408218"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            129.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475508871340</id>
+      <title>S</title>
+      <s:price currency="EUR">129.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475508871340</id>
+      <title>M</title>
+      <s:price currency="EUR">129.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475508871340</id>
+      <title>L</title>
+      <s:price currency="EUR">129.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475508871340</id>
+      <title>XL</title>
+      <s:price currency="EUR">129.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475508871340</id>
+      <title>XXL</title>
+      <s:price currency="EUR">129.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7475508838572</id>
+    <published>2022-09-29T01:36:52+02:00</published>
+    <updated>2022-09-29T01:36:52+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/giacca-leggera-burberry-3"/>
+    <title>Giacca Leggera B</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/4c6d4ba8.jpg?v=1664408214"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            109.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475508838572</id>
+      <title>S</title>
+      <s:price currency="EUR">109.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475508838572</id>
+      <title>M</title>
+      <s:price currency="EUR">109.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475508838572</id>
+      <title>L</title>
+      <s:price currency="EUR">109.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475508838572</id>
+      <title>XL</title>
+      <s:price currency="EUR">109.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475508838572</id>
+      <title>XXL</title>
+      <s:price currency="EUR">109.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7475508248748</id>
+    <published>2022-09-29T01:35:25+02:00</published>
+    <updated>2022-09-29T01:35:25+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/giacca-leggera-burberry-4"/>
+    <title>Giacca Leggera</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/51394ced.jpg?v=1664408129"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            109.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475508248748</id>
+      <title>S</title>
+      <s:price currency="EUR">109.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475508248748</id>
+      <title>M</title>
+      <s:price currency="EUR">109.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475508248748</id>
+      <title>L</title>
+      <s:price currency="EUR">109.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475508248748</id>
+      <title>XL</title>
+      <s:price currency="EUR">109.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475508248748</id>
+      <title>XXL</title>
+      <s:price currency="EUR">109.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7475508215980</id>
+    <published>2022-09-29T01:35:20+02:00</published>
+    <updated>2022-09-29T01:35:20+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/giacca-jeans-balenciaga"/>
+    <title>Giacca Jeans</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/614d0c0f.jpg?v=1664408124"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            139.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475508215980</id>
+      <title>S</title>
+      <s:price currency="EUR">139.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475508215980</id>
+      <title>M</title>
+      <s:price currency="EUR">139.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475508215980</id>
+      <title>L</title>
+      <s:price currency="EUR">139.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475508215980</id>
+      <title>XL</title>
+      <s:price currency="EUR">139.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475508215980</id>
+      <title>XXL</title>
+      <s:price currency="EUR">139.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7475508183212</id>
+    <published>2022-09-29T01:35:16+02:00</published>
+    <updated>2022-09-29T01:35:16+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/giacca-jeans-balenciaga-1"/>
+    <title>Giacca Jeans</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/9973fab9.jpg?v=1664408119"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            139.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475508183212</id>
+      <title>S</title>
+      <s:price currency="EUR">139.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475508183212</id>
+      <title>M</title>
+      <s:price currency="EUR">139.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475508183212</id>
+      <title>L</title>
+      <s:price currency="EUR">139.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475508183212</id>
+      <title>XL</title>
+      <s:price currency="EUR">139.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475508183212</id>
+      <title>XXL</title>
+      <s:price currency="EUR">139.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7475508117676</id>
+    <published>2022-09-29T01:35:13+02:00</published>
+    <updated>2022-09-29T01:35:13+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/giacca-jeans-balenciaga-2"/>
+    <title>Giacca Jeans</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/423ac92e.jpg?v=1664408115"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            139.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475508117676</id>
+      <title>S</title>
+      <s:price currency="EUR">139.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475508117676</id>
+      <title>M</title>
+      <s:price currency="EUR">139.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475508117676</id>
+      <title>L</title>
+      <s:price currency="EUR">139.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475508117676</id>
+      <title>XL</title>
+      <s:price currency="EUR">139.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475508117676</id>
+      <title>XXL</title>
+      <s:price currency="EUR">139.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7475508052140</id>
+    <published>2022-09-29T01:35:10+02:00</published>
+    <updated>2022-09-29T01:35:10+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/giacca-jeans-balenciaga-4"/>
+    <title>Giacca Jeans</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/22aff286_31080268-26fe-46a5-b242-dc302ce02890.jpg?v=1664408112"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            139.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475508052140</id>
+      <title>S</title>
+      <s:price currency="EUR">139.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475508052140</id>
+      <title>M</title>
+      <s:price currency="EUR">139.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475508052140</id>
+      <title>L</title>
+      <s:price currency="EUR">139.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475508052140</id>
+      <title>XL</title>
+      <s:price currency="EUR">139.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475508052140</id>
+      <title>XXL</title>
+      <s:price currency="EUR">139.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7475508019372</id>
+    <published>2022-09-29T01:35:07+02:00</published>
+    <updated>2022-09-29T01:35:07+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/giacca-jeans-off-white"/>
+    <title>Giacca Jeans OW</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/5f9051c4.jpg?v=1664408109"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            139.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475508019372</id>
+      <title>S</title>
+      <s:price currency="EUR">139.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475508019372</id>
+      <title>M</title>
+      <s:price currency="EUR">139.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475508019372</id>
+      <title>L</title>
+      <s:price currency="EUR">139.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475508019372</id>
+      <title>XL</title>
+      <s:price currency="EUR">139.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475508019372</id>
+      <title>XXL</title>
+      <s:price currency="EUR">139.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7475507986604</id>
+    <published>2022-09-29T01:35:03+02:00</published>
+    <updated>2022-09-29T01:35:03+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/giacca-jeans-chrome-hearts"/>
+    <title>Giacca Jeans CH</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/a773f0e0.jpg?v=1664408105"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            139.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507986604</id>
+      <title>S</title>
+      <s:price currency="EUR">139.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507986604</id>
+      <title>M</title>
+      <s:price currency="EUR">139.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507986604</id>
+      <title>L</title>
+      <s:price currency="EUR">139.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507986604</id>
+      <title>XL</title>
+      <s:price currency="EUR">139.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507986604</id>
+      <title>XXL</title>
+      <s:price currency="EUR">139.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7475507953836</id>
+    <published>2022-09-29T01:34:57+02:00</published>
+    <updated>2022-09-29T01:34:57+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/giacca-jeans-palm-angels"/>
+    <title>Giacca Jeans PA</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/60758eb8.jpg?v=1664408102"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            139.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507953836</id>
+      <title>S</title>
+      <s:price currency="EUR">139.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507953836</id>
+      <title>M</title>
+      <s:price currency="EUR">139.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507953836</id>
+      <title>L</title>
+      <s:price currency="EUR">139.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507953836</id>
+      <title>XL</title>
+      <s:price currency="EUR">139.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507953836</id>
+      <title>XXL</title>
+      <s:price currency="EUR">139.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7475507921068</id>
+    <published>2022-09-29T01:34:51+02:00</published>
+    <updated>2022-09-29T01:34:51+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/giacca-jeans-palm-angels-1"/>
+    <title>Giacca Jeans PA</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/732a4d7b.jpg?v=1664408096"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            139.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507921068</id>
+      <title>S</title>
+      <s:price currency="EUR">139.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507921068</id>
+      <title>M</title>
+      <s:price currency="EUR">139.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507921068</id>
+      <title>L</title>
+      <s:price currency="EUR">139.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507921068</id>
+      <title>XL</title>
+      <s:price currency="EUR">139.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507921068</id>
+      <title>XXL</title>
+      <s:price currency="EUR">139.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7475507855532</id>
+    <published>2022-09-29T01:34:47+02:00</published>
+    <updated>2022-09-29T01:34:47+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/giacca-jeans-off-white-1"/>
+    <title>Giacca Jeans OW</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/e86b09ea.jpg?v=1664408090"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            139.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507855532</id>
+      <title>S</title>
+      <s:price currency="EUR">139.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507855532</id>
+      <title>M</title>
+      <s:price currency="EUR">139.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507855532</id>
+      <title>L</title>
+      <s:price currency="EUR">139.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507855532</id>
+      <title>XL</title>
+      <s:price currency="EUR">139.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507855532</id>
+      <title>XXL</title>
+      <s:price currency="EUR">139.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7475507822764</id>
+    <published>2022-09-29T01:34:43+02:00</published>
+    <updated>2022-09-29T01:34:43+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/giacca-jeans-off-white-2"/>
+    <title>Giacca Jeans OW</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/4c026144.jpg?v=1664408086"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            139.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507822764</id>
+      <title>S</title>
+      <s:price currency="EUR">139.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507822764</id>
+      <title>M</title>
+      <s:price currency="EUR">139.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507822764</id>
+      <title>L</title>
+      <s:price currency="EUR">139.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507822764</id>
+      <title>XL</title>
+      <s:price currency="EUR">139.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507822764</id>
+      <title>XXL</title>
+      <s:price currency="EUR">139.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7475507789996</id>
+    <published>2022-09-29T01:34:39+02:00</published>
+    <updated>2022-09-29T01:34:39+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/giacca-jeans-off-white-3"/>
+    <title>Giacca Jeans OW</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/130236b5.jpg?v=1664408082"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            139.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507789996</id>
+      <title>S</title>
+      <s:price currency="EUR">139.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507789996</id>
+      <title>M</title>
+      <s:price currency="EUR">139.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507789996</id>
+      <title>L</title>
+      <s:price currency="EUR">139.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507789996</id>
+      <title>XL</title>
+      <s:price currency="EUR">139.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507789996</id>
+      <title>XXL</title>
+      <s:price currency="EUR">139.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

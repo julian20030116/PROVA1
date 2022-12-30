@@ -1,0 +1,1611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="it" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://streetwearness.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://streetwearness.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://streetwearness.com/collections/giubbotti.atom"/>
+  <title>Streetwearness</title>
+  <updated>2022-12-15T21:50:59+01:00</updated>
+  <author>
+    <name>Streetwearness</name>
+  </author>
+  <entry>
+    <id>https://streetwearness.com/products/7545912590508</id>
+    <published>2022-12-15T21:50:59+01:00</published>
+    <updated>2022-12-15T21:50:59+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/giubbotto-trapstar-donna-2"/>
+    <title>Giubbotto Trapstar Donna</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/cc5bdeee_2e9b9ea6-2025-413d-8079-26c79d338c14.jpg?v=1671137484"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            189.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7545912590508</id>
+      <title>S</title>
+      <s:price currency="EUR">189.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7545912590508</id>
+      <title>M</title>
+      <s:price currency="EUR">189.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7545912590508</id>
+      <title>L</title>
+      <s:price currency="EUR">189.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7545912590508</id>
+      <title>XL</title>
+      <s:price currency="EUR">189.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7545912590508</id>
+      <title>XXL</title>
+      <s:price currency="EUR">189.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7545912098988</id>
+    <published>2022-12-15T21:48:26+01:00</published>
+    <updated>2022-12-15T21:48:26+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/giubbotto-trapstar-donna-1"/>
+    <title>Giubbotto Trapstar Donna</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/586f1ff8.jpg?v=1671137333"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            189.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7545912098988</id>
+      <title>S</title>
+      <s:price currency="EUR">189.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7545912098988</id>
+      <title>M</title>
+      <s:price currency="EUR">189.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7545912098988</id>
+      <title>L</title>
+      <s:price currency="EUR">189.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7545912098988</id>
+      <title>XL</title>
+      <s:price currency="EUR">189.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7545912098988</id>
+      <title>XXL</title>
+      <s:price currency="EUR">189.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7545911869612</id>
+    <published>2022-12-15T21:47:11+01:00</published>
+    <updated>2022-12-15T21:47:11+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/giubbotto-trapstar-donna"/>
+    <title>Giubbotto Trapstar Donna</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/dbac1119.jpg?v=1671137264"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            189.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7545911869612</id>
+      <title>S</title>
+      <s:price currency="EUR">189.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7545911869612</id>
+      <title>M</title>
+      <s:price currency="EUR">189.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7545911869612</id>
+      <title>L</title>
+      <s:price currency="EUR">189.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7545911869612</id>
+      <title>XL</title>
+      <s:price currency="EUR">189.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7545911869612</id>
+      <title>XXL</title>
+      <s:price currency="EUR">189.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7534759149740</id>
+    <published>2022-11-26T20:48:51+01:00</published>
+    <updated>2022-11-26T20:48:51+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/giubbotto-trapstar-10"/>
+    <title>Giubbotto Trapstar</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/03e90535.jpg?v=1669492162"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            198.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7534759149740</id>
+      <title>S</title>
+      <s:price currency="EUR">198.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7534759149740</id>
+      <title>M</title>
+      <s:price currency="EUR">198.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7534759149740</id>
+      <title>L</title>
+      <s:price currency="EUR">198.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7534759149740</id>
+      <title>XL</title>
+      <s:price currency="EUR">198.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7534759149740</id>
+      <title>XXL</title>
+      <s:price currency="EUR">198.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7534757740716</id>
+    <published>2022-11-26T20:45:46+01:00</published>
+    <updated>2022-11-26T20:45:46+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/giubbotto-trapstar-9"/>
+    <title>Giubbotto Trapstar</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/9a05c45e.jpg?v=1669491971"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            198.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7534757740716</id>
+      <title>S</title>
+      <s:price currency="EUR">198.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7534757740716</id>
+      <title>M</title>
+      <s:price currency="EUR">198.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7534757740716</id>
+      <title>L</title>
+      <s:price currency="EUR">198.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7534757740716</id>
+      <title>XL</title>
+      <s:price currency="EUR">198.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7534757740716</id>
+      <title>XXL</title>
+      <s:price currency="EUR">198.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7526627770540</id>
+    <published>2022-11-15T20:35:56+01:00</published>
+    <updated>2022-11-15T20:35:56+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/giubbotto-trapstar-lucido"/>
+    <title>Giubbotto Trapstar Lucido</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/3542dc88.jpg?v=1668540975"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            198.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7526627770540</id>
+      <title>S</title>
+      <s:price currency="EUR">198.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7526627770540</id>
+      <title>M</title>
+      <s:price currency="EUR">198.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7526627770540</id>
+      <title>L</title>
+      <s:price currency="EUR">198.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7526627770540</id>
+      <title>XL</title>
+      <s:price currency="EUR">198.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7526627770540</id>
+      <title>XXL</title>
+      <s:price currency="EUR">198.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7475507757228</id>
+    <published>2022-09-29T01:34:35+02:00</published>
+    <updated>2022-09-29T01:34:35+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/giubbotto-prada"/>
+    <title>Giubbotto</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/ca1e62a4.jpg?v=1664408078"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            219.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507757228</id>
+      <title>S</title>
+      <s:price currency="EUR">219.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507757228</id>
+      <title>M</title>
+      <s:price currency="EUR">219.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507757228</id>
+      <title>L</title>
+      <s:price currency="EUR">219.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507757228</id>
+      <title>XL</title>
+      <s:price currency="EUR">219.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507757228</id>
+      <title>XXL</title>
+      <s:price currency="EUR">219.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7475507724460</id>
+    <published>2022-09-29T01:34:29+02:00</published>
+    <updated>2022-09-29T01:34:29+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/giubbotto-prada-1"/>
+    <title>Giubbotto</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/9548519f.jpg?v=1664408074"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            219.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507724460</id>
+      <title>S</title>
+      <s:price currency="EUR">219.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507724460</id>
+      <title>M</title>
+      <s:price currency="EUR">219.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507724460</id>
+      <title>L</title>
+      <s:price currency="EUR">219.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507724460</id>
+      <title>XL</title>
+      <s:price currency="EUR">219.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507724460</id>
+      <title>XXL</title>
+      <s:price currency="EUR">219.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7475507691692</id>
+    <published>2022-09-29T01:34:24+02:00</published>
+    <updated>2022-09-29T01:34:24+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/giubbotto-prada-2"/>
+    <title>Giubbotto</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/b7124617.jpg?v=1664408068"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            219.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507691692</id>
+      <title>S</title>
+      <s:price currency="EUR">219.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507691692</id>
+      <title>M</title>
+      <s:price currency="EUR">219.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507691692</id>
+      <title>L</title>
+      <s:price currency="EUR">219.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507691692</id>
+      <title>XL</title>
+      <s:price currency="EUR">219.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507691692</id>
+      <title>XXL</title>
+      <s:price currency="EUR">219.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7475507658924</id>
+    <published>2022-09-29T01:34:18+02:00</published>
+    <updated>2022-09-29T01:34:18+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/giubbotto-prada-3"/>
+    <title>Giubbotto</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/03900727.jpg?v=1664408063"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            219.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507658924</id>
+      <title>S</title>
+      <s:price currency="EUR">219.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507658924</id>
+      <title>M</title>
+      <s:price currency="EUR">219.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507658924</id>
+      <title>L</title>
+      <s:price currency="EUR">219.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507658924</id>
+      <title>XL</title>
+      <s:price currency="EUR">219.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507658924</id>
+      <title>XXL</title>
+      <s:price currency="EUR">219.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7475507593388</id>
+    <published>2022-09-29T01:34:11+02:00</published>
+    <updated>2022-09-29T01:34:11+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/giubbotto-moncler"/>
+    <title>Giubbotto</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/73d4adb6.jpg?v=1664408056"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            219.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507593388</id>
+      <title>S</title>
+      <s:price currency="EUR">219.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507593388</id>
+      <title>M</title>
+      <s:price currency="EUR">219.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507593388</id>
+      <title>L</title>
+      <s:price currency="EUR">219.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507593388</id>
+      <title>XL</title>
+      <s:price currency="EUR">219.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507593388</id>
+      <title>XXL</title>
+      <s:price currency="EUR">219.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7475507560620</id>
+    <published>2022-09-29T01:34:06+02:00</published>
+    <updated>2022-09-29T01:34:06+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/giubbotto-valentino-x-moncler"/>
+    <title>Giubbotto</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/1ec0a89b.jpg?v=1664408050"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            219.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507560620</id>
+      <title>S</title>
+      <s:price currency="EUR">219.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507560620</id>
+      <title>M</title>
+      <s:price currency="EUR">219.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507560620</id>
+      <title>L</title>
+      <s:price currency="EUR">219.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507560620</id>
+      <title>XL</title>
+      <s:price currency="EUR">219.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507560620</id>
+      <title>XXL</title>
+      <s:price currency="EUR">219.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7475507527852</id>
+    <published>2022-09-29T01:34:03+02:00</published>
+    <updated>2022-09-29T01:34:03+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/giubbotto-valentino-x-moncler-1"/>
+    <title>Giubbotto</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/e466535d.jpg?v=1664408045"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            219.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507527852</id>
+      <title>S</title>
+      <s:price currency="EUR">219.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507527852</id>
+      <title>M</title>
+      <s:price currency="EUR">219.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507527852</id>
+      <title>L</title>
+      <s:price currency="EUR">219.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507527852</id>
+      <title>XL</title>
+      <s:price currency="EUR">219.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507527852</id>
+      <title>XXL</title>
+      <s:price currency="EUR">219.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7475507495084</id>
+    <published>2022-09-29T01:33:59+02:00</published>
+    <updated>2022-09-29T01:33:59+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/giubbotto-valentino-x-moncler-2"/>
+    <title>Giubbotto</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/534216d9.jpg?v=1664408042"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            219.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507495084</id>
+      <title>S</title>
+      <s:price currency="EUR">219.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507495084</id>
+      <title>M</title>
+      <s:price currency="EUR">219.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507495084</id>
+      <title>L</title>
+      <s:price currency="EUR">219.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507495084</id>
+      <title>XL</title>
+      <s:price currency="EUR">219.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507495084</id>
+      <title>XXL</title>
+      <s:price currency="EUR">219.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7475507462316</id>
+    <published>2022-09-29T01:33:54+02:00</published>
+    <updated>2022-09-29T01:33:54+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/giubbotto-burberry"/>
+    <title>Giubbotto</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/48d1d624.jpg?v=1664408036"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            219.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507462316</id>
+      <title>S</title>
+      <s:price currency="EUR">219.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507462316</id>
+      <title>M</title>
+      <s:price currency="EUR">219.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507462316</id>
+      <title>L</title>
+      <s:price currency="EUR">219.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507462316</id>
+      <title>XL</title>
+      <s:price currency="EUR">219.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507462316</id>
+      <title>XXL</title>
+      <s:price currency="EUR">219.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7475507396780</id>
+    <published>2022-09-29T01:33:49+02:00</published>
+    <updated>2022-09-29T01:33:49+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/giubbotto-moncler-1"/>
+    <title>Giubbotto</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/e9b804cd.jpg?v=1664408033"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            219.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507396780</id>
+      <title>S</title>
+      <s:price currency="EUR">219.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507396780</id>
+      <title>M</title>
+      <s:price currency="EUR">219.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507396780</id>
+      <title>L</title>
+      <s:price currency="EUR">219.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507396780</id>
+      <title>XL</title>
+      <s:price currency="EUR">219.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507396780</id>
+      <title>XXL</title>
+      <s:price currency="EUR">219.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7475507331244</id>
+    <published>2022-09-29T01:33:45+02:00</published>
+    <updated>2022-09-29T01:33:45+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/giubbotto-moncler-2"/>
+    <title>Giubbotto</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/9260a44b.jpg?v=1664408028"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            219.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507331244</id>
+      <title>S</title>
+      <s:price currency="EUR">219.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507331244</id>
+      <title>M</title>
+      <s:price currency="EUR">219.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507331244</id>
+      <title>L</title>
+      <s:price currency="EUR">219.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507331244</id>
+      <title>XL</title>
+      <s:price currency="EUR">219.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507331244</id>
+      <title>XXL</title>
+      <s:price currency="EUR">219.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7475507298476</id>
+    <published>2022-09-29T01:33:40+02:00</published>
+    <updated>2022-09-29T01:33:40+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/giubbotto-moncler-3"/>
+    <title>Giubbotto CG</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/b9ad5b2f.jpg?v=1664408024"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            239.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507298476</id>
+      <title>S</title>
+      <s:price currency="EUR">239.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507298476</id>
+      <title>M</title>
+      <s:price currency="EUR">239.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507298476</id>
+      <title>L</title>
+      <s:price currency="EUR">239.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507298476</id>
+      <title>XL</title>
+      <s:price currency="EUR">239.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507298476</id>
+      <title>XXL</title>
+      <s:price currency="EUR">239.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7475507265708</id>
+    <published>2022-09-29T01:33:36+02:00</published>
+    <updated>2022-09-29T01:33:36+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/giubbotto-canada-goose"/>
+    <title>Giubbotto CG</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/874054a9.jpg?v=1664408020"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            239.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507265708</id>
+      <title>S</title>
+      <s:price currency="EUR">239.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507265708</id>
+      <title>M</title>
+      <s:price currency="EUR">239.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507265708</id>
+      <title>L</title>
+      <s:price currency="EUR">239.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507265708</id>
+      <title>XL</title>
+      <s:price currency="EUR">239.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507265708</id>
+      <title>XXL</title>
+      <s:price currency="EUR">239.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7475507232940</id>
+    <published>2022-09-29T01:33:32+02:00</published>
+    <updated>2022-09-29T01:33:32+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/giubbotto-canada-goose-1"/>
+    <title>Giubbotto CG</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/66b41082.jpg?v=1664408015"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            239.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507232940</id>
+      <title>S</title>
+      <s:price currency="EUR">239.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507232940</id>
+      <title>M</title>
+      <s:price currency="EUR">239.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507232940</id>
+      <title>L</title>
+      <s:price currency="EUR">239.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507232940</id>
+      <title>XL</title>
+      <s:price currency="EUR">239.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507232940</id>
+      <title>XXL</title>
+      <s:price currency="EUR">239.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7475507200172</id>
+    <published>2022-09-29T01:33:27+02:00</published>
+    <updated>2022-09-29T01:33:27+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/giubbotto-canada-goose-2"/>
+    <title>Giubbotto CG</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/025938fe.jpg?v=1664408011"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            239.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507200172</id>
+      <title>S</title>
+      <s:price currency="EUR">239.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507200172</id>
+      <title>M</title>
+      <s:price currency="EUR">239.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507200172</id>
+      <title>L</title>
+      <s:price currency="EUR">239.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507200172</id>
+      <title>XL</title>
+      <s:price currency="EUR">239.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507200172</id>
+      <title>XXL</title>
+      <s:price currency="EUR">239.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7475507167404</id>
+    <published>2022-09-29T01:33:21+02:00</published>
+    <updated>2022-09-29T01:33:21+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/giubbotto-the-north-face-x-gucci"/>
+    <title>Giubbotto TNF x GG</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/78d43ffd.jpg?v=1664408006"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            239.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507167404</id>
+      <title>S</title>
+      <s:price currency="EUR">239.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507167404</id>
+      <title>M</title>
+      <s:price currency="EUR">239.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507167404</id>
+      <title>L</title>
+      <s:price currency="EUR">239.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507167404</id>
+      <title>XL</title>
+      <s:price currency="EUR">239.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507167404</id>
+      <title>XXL</title>
+      <s:price currency="EUR">239.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7475507101868</id>
+    <published>2022-09-29T01:33:15+02:00</published>
+    <updated>2022-09-29T01:33:15+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/giubbotto-dior"/>
+    <title>Giubbotto</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/55e7ecfb.jpg?v=1664408000"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            239.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507101868</id>
+      <title>S</title>
+      <s:price currency="EUR">239.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507101868</id>
+      <title>M</title>
+      <s:price currency="EUR">239.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507101868</id>
+      <title>L</title>
+      <s:price currency="EUR">239.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507101868</id>
+      <title>XL</title>
+      <s:price currency="EUR">239.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507101868</id>
+      <title>XXL</title>
+      <s:price currency="EUR">239.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7475507036332</id>
+    <published>2022-09-29T01:33:06+02:00</published>
+    <updated>2022-09-29T01:33:06+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/giubbotto-dior-1"/>
+    <title>Giubbotto</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/342039e0.jpg?v=1664407993"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            239.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507036332</id>
+      <title>S</title>
+      <s:price currency="EUR">239.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507036332</id>
+      <title>M</title>
+      <s:price currency="EUR">239.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507036332</id>
+      <title>L</title>
+      <s:price currency="EUR">239.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507036332</id>
+      <title>XL</title>
+      <s:price currency="EUR">239.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507036332</id>
+      <title>XXL</title>
+      <s:price currency="EUR">239.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://streetwearness.com/products/7475507003564</id>
+    <published>2022-09-29T01:33:00+02:00</published>
+    <updated>2022-09-29T01:33:00+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/giubbotto-dior-2"/>
+    <title>Giubbotto</title>
+    <s:type></s:type>
+    <s:vendor>streetwearness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0631/8879/5564/products/2806e80f.jpg?v=1664407984"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornitore: </strong>streetwearness<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            239.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0560/3137/9535/files/paypal-logo_480x480.png?v=1657039725"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507003564</id>
+      <title>S</title>
+      <s:price currency="EUR">239.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507003564</id>
+      <title>M</title>
+      <s:price currency="EUR">239.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507003564</id>
+      <title>L</title>
+      <s:price currency="EUR">239.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507003564</id>
+      <title>XL</title>
+      <s:price currency="EUR">239.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://streetwearness.com/products/7475507003564</id>
+      <title>XXL</title>
+      <s:price currency="EUR">239.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
