@@ -1,0 +1,46 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 25 Dec 2022 11:54:13 at https://streetwearness.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://streetwearness.com/ -O1 "C:\Mie pagine Web\PROVA SITO" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:56:41	Warning: 	Moved Permanently for cdn.shopify.com/shopifycloud/shopify/assets/storefront/load_feature-a5f1052ed1a8af5abd2f31dfef1a6c95288a6be319e39bfd7072f5f196d63612.js
+11:56:41	Warning: 	Redirected link is identical because of 'URL Hack' option: cdn.shopify.com/shopifycloud/shopify/assets/storefront/load_feature-a5f1052ed1a8af5abd2f31dfef1a6c95288a6be319e39bfd7072f5f196d63612.js and https://cdn.shopify.com/shopifycloud/shopify/assets/storefront/load_feature-a5f1052ed1a8af5abd2f31dfef1a6c95288a6be319e39bfd7072f5f196d63612.js
+11:56:41	Warning: 	Warning moved treated for cdn.shopify.com/shopifycloud/shopify/assets/storefront/load_feature-a5f1052ed1a8af5abd2f31dfef1a6c95288a6be319e39bfd7072f5f196d63612.js (real one is https://cdn.shopify.com/shopifycloud/shopify/assets/storefront/load_feature-a5f1052ed1a8af5abd2f31dfef1a6c95288a6be319e39bfd7072f5f196d63612.js)
+11:56:42	Warning: 	Moved Permanently for cdn.shopify.com/shopifycloud/shopify/assets/storefront/features-87e8399988880142f2c62771b9d8f2ff6c290b3ff745dd426eb0dfe0db9d1dae.js
+11:56:42	Warning: 	Redirected link is identical because of 'URL Hack' option: cdn.shopify.com/shopifycloud/shopify/assets/storefront/features-87e8399988880142f2c62771b9d8f2ff6c290b3ff745dd426eb0dfe0db9d1dae.js and https://cdn.shopify.com/shopifycloud/shopify/assets/storefront/features-87e8399988880142f2c62771b9d8f2ff6c290b3ff745dd426eb0dfe0db9d1dae.js
+11:56:42	Warning: 	Warning moved treated for cdn.shopify.com/shopifycloud/shopify/assets/storefront/features-87e8399988880142f2c62771b9d8f2ff6c290b3ff745dd426eb0dfe0db9d1dae.js (real one is https://cdn.shopify.com/shopifycloud/shopify/assets/storefront/features-87e8399988880142f2c62771b9d8f2ff6c290b3ff745dd426eb0dfe0db9d1dae.js)
+11:58:45	Error: 	"Not Found" (404) at link https://streetwearness.com/POST (from https://streetwearness.com/)
+11:58:45	Warning: 	Moved Permanently for cdn.shopify.com/shopifycloud/shopify/assets/shop_events_listener-65cd0ba3fcd81a1df33f2510ec5bcf8c0e0958653b50e3965ec972dd638ee13f.js
+11:58:45	Warning: 	Redirected link is identical because of 'URL Hack' option: cdn.shopify.com/shopifycloud/shopify/assets/shop_events_listener-65cd0ba3fcd81a1df33f2510ec5bcf8c0e0958653b50e3965ec972dd638ee13f.js and https://cdn.shopify.com/shopifycloud/shopify/assets/shop_events_listener-65cd0ba3fcd81a1df33f2510ec5bcf8c0e0958653b50e3965ec972dd638ee13f.js
+11:58:45	Warning: 	Warning moved treated for cdn.shopify.com/shopifycloud/shopify/assets/shop_events_listener-65cd0ba3fcd81a1df33f2510ec5bcf8c0e0958653b50e3965ec972dd638ee13f.js (real one is https://cdn.shopify.com/shopifycloud/shopify/assets/shop_events_listener-65cd0ba3fcd81a1df33f2510ec5bcf8c0e0958653b50e3965ec972dd638ee13f.js)
+12:39:38	Error: 	"Not Found" (404) at link https://streetwearness.com/collections/POST (from https://streetwearness.com/collections/jordan-1)
+13:52:57	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://streetwearness.com/products/t-shirt-dior-5 (from https://streetwearness.com/collections/t-shirt)
+15:24:26	Error: 	"Not Found" (404) at link https://streetwearness.com/pages/POST (from https://streetwearness.com/pages/recensioni)
+15:24:29	Error: 	"Not Found" (404) at link https://streetwearness.com/Trident/ (from https://streetwearness.com/cart)
+15:24:29	Error: 	"Not Found" (404) at link https://streetwearness.com/de/POST (from https://streetwearness.com/de/)
+15:24:33	Error: 	"Not Found" (404) at link https://streetwearness.com/de/collections/POST (from https://streetwearness.com/de/collections/jordan-1)
+15:34:33	Error: 	"Not Found" (404) at link https://streetwearness.com/de/pages/POST (from https://streetwearness.com/de/pages/recensioni)
+15:34:34	Error: 	"Not Found" (404) at link https://streetwearness.com/de/Trident/ (from https://streetwearness.com/de/cart)
+15:34:34	Error: 	"Not Found" (404) at link https://streetwearness.com/en/POST (from https://streetwearness.com/en/)
+15:34:38	Error: 	"Not Found" (404) at link https://streetwearness.com/en/collections/POST (from https://streetwearness.com/en/collections/jordan-1)
+15:44:28	Error: 	"Not Found" (404) at link https://streetwearness.com/en/pages/POST (from https://streetwearness.com/en/pages/recensioni)
+15:44:29	Error: 	"Not Found" (404) at link https://streetwearness.com/en/Trident/ (from https://streetwearness.com/en/cart)
+15:44:29	Error: 	"Not Found" (404) at link https://streetwearness.com/it-gb/POST (from https://streetwearness.com/it-gb/)
+15:44:32	Error: 	"Not Found" (404) at link https://streetwearness.com/it-gb/collections/POST (from https://streetwearness.com/it-gb/collections/jordan-1)
+15:54:37	Error: 	"Not Found" (404) at link https://streetwearness.com/it-gb/pages/POST (from https://streetwearness.com/it-gb/pages/recensioni)
+15:54:38	Error: 	"Not Found" (404) at link https://streetwearness.com/it-gb/Trident/ (from https://streetwearness.com/it-gb/cart)
+15:56:08	Error: 	"Not Found" (404) at link https://streetwearness.com/products/POST (from https://streetwearness.com/products/nike-air-jordan-1-high-og-sp-fragment-x-travis-scott)
+15:56:08	Error: 	"Not Found" (404) at link https://streetwearness.com/products/Trident/ (from https://streetwearness.com/products/nike-air-jordan-1-high-og-sp-fragment-x-travis-scott)
+16:28:50	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cdn.shopify.com/s/files/1/0631/8879/5564/products/8cac4f0a.jpg?v=1664406673&width=533 (from https://streetwearness.com/collections/felpe?page=6)
+16:55:37	Error: 	"Not Found" (404) at link https://streetwearness.com/de/products/POST (from https://streetwearness.com/de/products/nike-air-jordan-1-high-og-sp-fragment-x-travis-scott)
+16:55:37	Error: 	"Not Found" (404) at link https://streetwearness.com/de/products/Trident/ (from https://streetwearness.com/de/products/nike-air-jordan-1-high-og-sp-fragment-x-travis-scott)
+16:59:03	Error: 	"Not Found" (404) at link https://streetwearness.com/en/products/POST (from https://streetwearness.com/en/products/nike-air-jordan-1-high-og-sp-fragment-x-travis-scott)
+16:59:03	Error: 	"Not Found" (404) at link https://streetwearness.com/en/products/Trident/ (from https://streetwearness.com/en/products/nike-air-jordan-1-high-og-sp-fragment-x-travis-scott)
+17:02:50	Error: 	"Not Found" (404) at link https://streetwearness.com/it-gb/products/POST (from https://streetwearness.com/it-gb/products/nike-air-jordan-1-high-og-sp-fragment-x-travis-scott)
+17:02:50	Error: 	"Not Found" (404) at link https://streetwearness.com/it-gb/products/Trident/ (from https://streetwearness.com/it-gb/products/nike-air-jordan-1-high-og-sp-fragment-x-travis-scott)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 hours 47 minutes 28 seconds : 18087 links scanned, 18057 files written (2254128288 bytes overall), 17985 files updated [1651981794 bytes received at 79239 bytes/sec], 791434038 bytes transferred using HTTP compression in 8480 files, ratio 19%, 12.4 requests per connection
+(24 errors, 11 warnings, 0 messages)
