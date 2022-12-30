@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="it" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
-  <id>https://streetwearness.com/collections/all.atom</id>
+  <id>https://streetwearness.com/it-gb/collections/all.atom</id>
   <link rel="alternate" type="text/html" href="https://streetwearness.com/collections/all"/>
-  <link rel="self" type="application/atom+xml" href="https://streetwearness.com/collections/air-force-1-premium.atom"/>
+  <link rel="self" type="application/atom+xml" href="https://streetwearness.com/it-gb/collections/air-force-1-premium.atom"/>
   <title>Streetwearness</title>
   <updated>2022-11-12T16:42:12+01:00</updated>
   <author>
     <name>Streetwearness</name>
   </author>
   <entry>
-    <id>https://streetwearness.com/products/7524291510444</id>
+    <id>https://streetwearness.com/it-gb/products/7524291510444</id>
     <published>2022-11-12T16:42:12+01:00</published>
     <updated>2022-11-12T16:42:12+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/air-force-1-classic"/>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/it-gb/products/air-force-1-classic"/>
     <title>Air Force 1 Classic</title>
     <s:type></s:type>
     <s:vendor>Streetwearness</s:vendor>
@@ -40,77 +40,77 @@
 ]]>
     </summary>
     <s:variant>
-      <id>https://streetwearness.com/products/7524291510444</id>
+      <id>https://streetwearness.com/it-gb/products/7524291510444</id>
       <title>36</title>
       <s:price currency="EUR">109.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7524291510444</id>
+      <id>https://streetwearness.com/it-gb/products/7524291510444</id>
       <title>37</title>
       <s:price currency="EUR">109.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7524291510444</id>
+      <id>https://streetwearness.com/it-gb/products/7524291510444</id>
       <title>38</title>
       <s:price currency="EUR">109.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7524291510444</id>
+      <id>https://streetwearness.com/it-gb/products/7524291510444</id>
       <title>39</title>
       <s:price currency="EUR">109.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7524291510444</id>
+      <id>https://streetwearness.com/it-gb/products/7524291510444</id>
       <title>40</title>
       <s:price currency="EUR">109.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7524291510444</id>
+      <id>https://streetwearness.com/it-gb/products/7524291510444</id>
       <title>41</title>
       <s:price currency="EUR">109.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7524291510444</id>
+      <id>https://streetwearness.com/it-gb/products/7524291510444</id>
       <title>42</title>
       <s:price currency="EUR">109.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7524291510444</id>
+      <id>https://streetwearness.com/it-gb/products/7524291510444</id>
       <title>43</title>
       <s:price currency="EUR">109.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7524291510444</id>
+      <id>https://streetwearness.com/it-gb/products/7524291510444</id>
       <title>44</title>
       <s:price currency="EUR">109.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7524291510444</id>
+      <id>https://streetwearness.com/it-gb/products/7524291510444</id>
       <title>45</title>
       <s:price currency="EUR">109.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7524291510444</id>
+      <id>https://streetwearness.com/it-gb/products/7524291510444</id>
       <title>46</title>
       <s:price currency="EUR">109.00</s:price>
       <s:sku/>
@@ -118,10 +118,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://streetwearness.com/products/7524280172716</id>
+    <id>https://streetwearness.com/it-gb/products/7524280172716</id>
     <published>2022-11-12T16:25:00+01:00</published>
     <updated>2022-11-12T16:25:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/air-force-1-x-travis-scott-1"/>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/it-gb/products/air-force-1-x-travis-scott-1"/>
     <title>Air Force 1 x Travis Scott</title>
     <s:type></s:type>
     <s:vendor>Streetwearness</s:vendor>
@@ -149,77 +149,77 @@
 ]]>
     </summary>
     <s:variant>
-      <id>https://streetwearness.com/products/7524280172716</id>
+      <id>https://streetwearness.com/it-gb/products/7524280172716</id>
       <title>36</title>
       <s:price currency="EUR">149.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7524280172716</id>
+      <id>https://streetwearness.com/it-gb/products/7524280172716</id>
       <title>37</title>
       <s:price currency="EUR">149.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7524280172716</id>
+      <id>https://streetwearness.com/it-gb/products/7524280172716</id>
       <title>38</title>
       <s:price currency="EUR">149.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7524280172716</id>
+      <id>https://streetwearness.com/it-gb/products/7524280172716</id>
       <title>39</title>
       <s:price currency="EUR">149.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7524280172716</id>
+      <id>https://streetwearness.com/it-gb/products/7524280172716</id>
       <title>40</title>
       <s:price currency="EUR">149.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7524280172716</id>
+      <id>https://streetwearness.com/it-gb/products/7524280172716</id>
       <title>41</title>
       <s:price currency="EUR">149.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7524280172716</id>
+      <id>https://streetwearness.com/it-gb/products/7524280172716</id>
       <title>42</title>
       <s:price currency="EUR">149.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7524280172716</id>
+      <id>https://streetwearness.com/it-gb/products/7524280172716</id>
       <title>43</title>
       <s:price currency="EUR">149.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7524280172716</id>
+      <id>https://streetwearness.com/it-gb/products/7524280172716</id>
       <title>44</title>
       <s:price currency="EUR">149.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7524280172716</id>
+      <id>https://streetwearness.com/it-gb/products/7524280172716</id>
       <title>45</title>
       <s:price currency="EUR">149.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7524280172716</id>
+      <id>https://streetwearness.com/it-gb/products/7524280172716</id>
       <title>46</title>
       <s:price currency="EUR">149.00</s:price>
       <s:sku/>
@@ -227,10 +227,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://streetwearness.com/products/7524279222444</id>
+    <id>https://streetwearness.com/it-gb/products/7524279222444</id>
     <published>2022-11-12T16:24:10+01:00</published>
     <updated>2022-11-12T16:24:10+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/air-force-1-x-travis-scott"/>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/it-gb/products/air-force-1-x-travis-scott"/>
     <title>Air Force 1 x Travis Scott</title>
     <s:type></s:type>
     <s:vendor>Streetwearness</s:vendor>
@@ -258,77 +258,77 @@
 ]]>
     </summary>
     <s:variant>
-      <id>https://streetwearness.com/products/7524279222444</id>
+      <id>https://streetwearness.com/it-gb/products/7524279222444</id>
       <title>36</title>
       <s:price currency="EUR">149.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7524279222444</id>
+      <id>https://streetwearness.com/it-gb/products/7524279222444</id>
       <title>37</title>
       <s:price currency="EUR">149.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7524279222444</id>
+      <id>https://streetwearness.com/it-gb/products/7524279222444</id>
       <title>38</title>
       <s:price currency="EUR">149.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7524279222444</id>
+      <id>https://streetwearness.com/it-gb/products/7524279222444</id>
       <title>39</title>
       <s:price currency="EUR">149.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7524279222444</id>
+      <id>https://streetwearness.com/it-gb/products/7524279222444</id>
       <title>40</title>
       <s:price currency="EUR">149.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7524279222444</id>
+      <id>https://streetwearness.com/it-gb/products/7524279222444</id>
       <title>41</title>
       <s:price currency="EUR">149.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7524279222444</id>
+      <id>https://streetwearness.com/it-gb/products/7524279222444</id>
       <title>42</title>
       <s:price currency="EUR">149.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7524279222444</id>
+      <id>https://streetwearness.com/it-gb/products/7524279222444</id>
       <title>43</title>
       <s:price currency="EUR">149.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7524279222444</id>
+      <id>https://streetwearness.com/it-gb/products/7524279222444</id>
       <title>44</title>
       <s:price currency="EUR">149.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7524279222444</id>
+      <id>https://streetwearness.com/it-gb/products/7524279222444</id>
       <title>45</title>
       <s:price currency="EUR">149.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7524279222444</id>
+      <id>https://streetwearness.com/it-gb/products/7524279222444</id>
       <title>46</title>
       <s:price currency="EUR">149.00</s:price>
       <s:sku/>
@@ -336,10 +336,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://streetwearness.com/products/7498535207084</id>
+    <id>https://streetwearness.com/it-gb/products/7498535207084</id>
     <published>2022-10-18T16:58:03+02:00</published>
     <updated>2022-10-18T16:58:03+02:00</updated>
-    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/air-force-1-premium-white"/>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/it-gb/products/air-force-1-premium-white"/>
     <title>Air Force 1 Premium White</title>
     <s:type></s:type>
     <s:vendor>Streetwearness</s:vendor>
@@ -367,77 +367,77 @@
 ]]>
     </summary>
     <s:variant>
-      <id>https://streetwearness.com/products/7498535207084</id>
+      <id>https://streetwearness.com/it-gb/products/7498535207084</id>
       <title>36</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498535207084</id>
+      <id>https://streetwearness.com/it-gb/products/7498535207084</id>
       <title>37</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498535207084</id>
+      <id>https://streetwearness.com/it-gb/products/7498535207084</id>
       <title>38</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498535207084</id>
+      <id>https://streetwearness.com/it-gb/products/7498535207084</id>
       <title>39</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498535207084</id>
+      <id>https://streetwearness.com/it-gb/products/7498535207084</id>
       <title>40</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498535207084</id>
+      <id>https://streetwearness.com/it-gb/products/7498535207084</id>
       <title>41</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498535207084</id>
+      <id>https://streetwearness.com/it-gb/products/7498535207084</id>
       <title>42</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498535207084</id>
+      <id>https://streetwearness.com/it-gb/products/7498535207084</id>
       <title>43</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498535207084</id>
+      <id>https://streetwearness.com/it-gb/products/7498535207084</id>
       <title>44</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498535207084</id>
+      <id>https://streetwearness.com/it-gb/products/7498535207084</id>
       <title>45</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498535207084</id>
+      <id>https://streetwearness.com/it-gb/products/7498535207084</id>
       <title>46</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
@@ -445,10 +445,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://streetwearness.com/products/7498534781100</id>
+    <id>https://streetwearness.com/it-gb/products/7498534781100</id>
     <published>2022-10-18T16:57:37+02:00</published>
     <updated>2022-10-18T16:57:37+02:00</updated>
-    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/air-force-1-premium-total-green"/>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/it-gb/products/air-force-1-premium-total-green"/>
     <title>Air Force 1 Premium Total Green</title>
     <s:type></s:type>
     <s:vendor>Streetwearness</s:vendor>
@@ -476,77 +476,77 @@
 ]]>
     </summary>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534781100</id>
+      <id>https://streetwearness.com/it-gb/products/7498534781100</id>
       <title>36</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534781100</id>
+      <id>https://streetwearness.com/it-gb/products/7498534781100</id>
       <title>37</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534781100</id>
+      <id>https://streetwearness.com/it-gb/products/7498534781100</id>
       <title>38</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534781100</id>
+      <id>https://streetwearness.com/it-gb/products/7498534781100</id>
       <title>39</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534781100</id>
+      <id>https://streetwearness.com/it-gb/products/7498534781100</id>
       <title>40</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534781100</id>
+      <id>https://streetwearness.com/it-gb/products/7498534781100</id>
       <title>41</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534781100</id>
+      <id>https://streetwearness.com/it-gb/products/7498534781100</id>
       <title>42</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534781100</id>
+      <id>https://streetwearness.com/it-gb/products/7498534781100</id>
       <title>43</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534781100</id>
+      <id>https://streetwearness.com/it-gb/products/7498534781100</id>
       <title>44</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534781100</id>
+      <id>https://streetwearness.com/it-gb/products/7498534781100</id>
       <title>45</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534781100</id>
+      <id>https://streetwearness.com/it-gb/products/7498534781100</id>
       <title>46</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
@@ -554,10 +554,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://streetwearness.com/products/7498534682796</id>
+    <id>https://streetwearness.com/it-gb/products/7498534682796</id>
     <published>2022-10-18T16:57:11+02:00</published>
     <updated>2022-10-18T16:57:11+02:00</updated>
-    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/air-force-1-premium-total-blu"/>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/it-gb/products/air-force-1-premium-total-blu"/>
     <title>Air Force 1 Premium Total Blu</title>
     <s:type></s:type>
     <s:vendor>Streetwearness</s:vendor>
@@ -585,77 +585,77 @@
 ]]>
     </summary>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534682796</id>
+      <id>https://streetwearness.com/it-gb/products/7498534682796</id>
       <title>36</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534682796</id>
+      <id>https://streetwearness.com/it-gb/products/7498534682796</id>
       <title>37</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534682796</id>
+      <id>https://streetwearness.com/it-gb/products/7498534682796</id>
       <title>38</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534682796</id>
+      <id>https://streetwearness.com/it-gb/products/7498534682796</id>
       <title>39</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534682796</id>
+      <id>https://streetwearness.com/it-gb/products/7498534682796</id>
       <title>40</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534682796</id>
+      <id>https://streetwearness.com/it-gb/products/7498534682796</id>
       <title>41</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534682796</id>
+      <id>https://streetwearness.com/it-gb/products/7498534682796</id>
       <title>42</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534682796</id>
+      <id>https://streetwearness.com/it-gb/products/7498534682796</id>
       <title>43</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534682796</id>
+      <id>https://streetwearness.com/it-gb/products/7498534682796</id>
       <title>44</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534682796</id>
+      <id>https://streetwearness.com/it-gb/products/7498534682796</id>
       <title>45</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534682796</id>
+      <id>https://streetwearness.com/it-gb/products/7498534682796</id>
       <title>46</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
@@ -663,10 +663,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://streetwearness.com/products/7498534617260</id>
+    <id>https://streetwearness.com/it-gb/products/7498534617260</id>
     <published>2022-10-18T16:56:44+02:00</published>
     <updated>2022-10-18T16:56:44+02:00</updated>
-    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/air-force-1-premium-total-red"/>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/it-gb/products/air-force-1-premium-total-red"/>
     <title>Air Force 1 Premium Total Red</title>
     <s:type></s:type>
     <s:vendor>Streetwearness</s:vendor>
@@ -694,77 +694,77 @@
 ]]>
     </summary>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534617260</id>
+      <id>https://streetwearness.com/it-gb/products/7498534617260</id>
       <title>36</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534617260</id>
+      <id>https://streetwearness.com/it-gb/products/7498534617260</id>
       <title>37</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534617260</id>
+      <id>https://streetwearness.com/it-gb/products/7498534617260</id>
       <title>38</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534617260</id>
+      <id>https://streetwearness.com/it-gb/products/7498534617260</id>
       <title>39</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534617260</id>
+      <id>https://streetwearness.com/it-gb/products/7498534617260</id>
       <title>40</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534617260</id>
+      <id>https://streetwearness.com/it-gb/products/7498534617260</id>
       <title>41</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534617260</id>
+      <id>https://streetwearness.com/it-gb/products/7498534617260</id>
       <title>42</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534617260</id>
+      <id>https://streetwearness.com/it-gb/products/7498534617260</id>
       <title>43</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534617260</id>
+      <id>https://streetwearness.com/it-gb/products/7498534617260</id>
       <title>44</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534617260</id>
+      <id>https://streetwearness.com/it-gb/products/7498534617260</id>
       <title>45</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534617260</id>
+      <id>https://streetwearness.com/it-gb/products/7498534617260</id>
       <title>46</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
@@ -772,10 +772,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://streetwearness.com/products/7498534420652</id>
+    <id>https://streetwearness.com/it-gb/products/7498534420652</id>
     <published>2022-10-18T16:56:04+02:00</published>
     <updated>2022-10-18T16:56:04+02:00</updated>
-    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/air-force-1-premium-nere-1"/>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/it-gb/products/air-force-1-premium-nere-1"/>
     <title>Air Force 1 Premium Purple</title>
     <s:type></s:type>
     <s:vendor>Streetwearness</s:vendor>
@@ -803,77 +803,77 @@
 ]]>
     </summary>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534420652</id>
+      <id>https://streetwearness.com/it-gb/products/7498534420652</id>
       <title>36</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534420652</id>
+      <id>https://streetwearness.com/it-gb/products/7498534420652</id>
       <title>37</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534420652</id>
+      <id>https://streetwearness.com/it-gb/products/7498534420652</id>
       <title>38</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534420652</id>
+      <id>https://streetwearness.com/it-gb/products/7498534420652</id>
       <title>39</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534420652</id>
+      <id>https://streetwearness.com/it-gb/products/7498534420652</id>
       <title>40</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534420652</id>
+      <id>https://streetwearness.com/it-gb/products/7498534420652</id>
       <title>41</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534420652</id>
+      <id>https://streetwearness.com/it-gb/products/7498534420652</id>
       <title>42</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534420652</id>
+      <id>https://streetwearness.com/it-gb/products/7498534420652</id>
       <title>43</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534420652</id>
+      <id>https://streetwearness.com/it-gb/products/7498534420652</id>
       <title>44</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534420652</id>
+      <id>https://streetwearness.com/it-gb/products/7498534420652</id>
       <title>45</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534420652</id>
+      <id>https://streetwearness.com/it-gb/products/7498534420652</id>
       <title>46</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
@@ -881,10 +881,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://streetwearness.com/products/7498534355116</id>
+    <id>https://streetwearness.com/it-gb/products/7498534355116</id>
     <published>2022-10-18T16:55:47+02:00</published>
     <updated>2022-10-18T16:55:47+02:00</updated>
-    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/air-force-1-premium-nere"/>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/it-gb/products/air-force-1-premium-nere"/>
     <title>Air Force 1 Premium Black</title>
     <s:type></s:type>
     <s:vendor>Streetwearness</s:vendor>
@@ -912,77 +912,77 @@
 ]]>
     </summary>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534355116</id>
+      <id>https://streetwearness.com/it-gb/products/7498534355116</id>
       <title>36</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534355116</id>
+      <id>https://streetwearness.com/it-gb/products/7498534355116</id>
       <title>37</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534355116</id>
+      <id>https://streetwearness.com/it-gb/products/7498534355116</id>
       <title>38</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534355116</id>
+      <id>https://streetwearness.com/it-gb/products/7498534355116</id>
       <title>39</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534355116</id>
+      <id>https://streetwearness.com/it-gb/products/7498534355116</id>
       <title>40</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534355116</id>
+      <id>https://streetwearness.com/it-gb/products/7498534355116</id>
       <title>41</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534355116</id>
+      <id>https://streetwearness.com/it-gb/products/7498534355116</id>
       <title>42</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534355116</id>
+      <id>https://streetwearness.com/it-gb/products/7498534355116</id>
       <title>43</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534355116</id>
+      <id>https://streetwearness.com/it-gb/products/7498534355116</id>
       <title>44</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534355116</id>
+      <id>https://streetwearness.com/it-gb/products/7498534355116</id>
       <title>45</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534355116</id>
+      <id>https://streetwearness.com/it-gb/products/7498534355116</id>
       <title>46</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
@@ -990,10 +990,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://streetwearness.com/products/7498534289580</id>
+    <id>https://streetwearness.com/it-gb/products/7498534289580</id>
     <published>2022-10-18T16:55:22+02:00</published>
     <updated>2022-10-18T16:55:22+02:00</updated>
-    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/air-force-1-premium-verdi"/>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/it-gb/products/air-force-1-premium-verdi"/>
     <title>Air Force 1 Premium Green</title>
     <s:type></s:type>
     <s:vendor>Streetwearness</s:vendor>
@@ -1021,77 +1021,77 @@
 ]]>
     </summary>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534289580</id>
+      <id>https://streetwearness.com/it-gb/products/7498534289580</id>
       <title>36</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534289580</id>
+      <id>https://streetwearness.com/it-gb/products/7498534289580</id>
       <title>37</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534289580</id>
+      <id>https://streetwearness.com/it-gb/products/7498534289580</id>
       <title>38</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534289580</id>
+      <id>https://streetwearness.com/it-gb/products/7498534289580</id>
       <title>39</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534289580</id>
+      <id>https://streetwearness.com/it-gb/products/7498534289580</id>
       <title>40</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534289580</id>
+      <id>https://streetwearness.com/it-gb/products/7498534289580</id>
       <title>41</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534289580</id>
+      <id>https://streetwearness.com/it-gb/products/7498534289580</id>
       <title>42</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534289580</id>
+      <id>https://streetwearness.com/it-gb/products/7498534289580</id>
       <title>43</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534289580</id>
+      <id>https://streetwearness.com/it-gb/products/7498534289580</id>
       <title>44</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534289580</id>
+      <id>https://streetwearness.com/it-gb/products/7498534289580</id>
       <title>45</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534289580</id>
+      <id>https://streetwearness.com/it-gb/products/7498534289580</id>
       <title>46</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
@@ -1099,10 +1099,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://streetwearness.com/products/7498534158508</id>
+    <id>https://streetwearness.com/it-gb/products/7498534158508</id>
     <published>2022-10-18T16:54:55+02:00</published>
     <updated>2022-10-18T16:54:55+02:00</updated>
-    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/air-force-1-premium-rosse"/>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/it-gb/products/air-force-1-premium-rosse"/>
     <title>Air Force 1 Premium Red</title>
     <s:type></s:type>
     <s:vendor>Streetwearness</s:vendor>
@@ -1130,77 +1130,77 @@
 ]]>
     </summary>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534158508</id>
+      <id>https://streetwearness.com/it-gb/products/7498534158508</id>
       <title>36</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534158508</id>
+      <id>https://streetwearness.com/it-gb/products/7498534158508</id>
       <title>37</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534158508</id>
+      <id>https://streetwearness.com/it-gb/products/7498534158508</id>
       <title>38</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534158508</id>
+      <id>https://streetwearness.com/it-gb/products/7498534158508</id>
       <title>39</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534158508</id>
+      <id>https://streetwearness.com/it-gb/products/7498534158508</id>
       <title>40</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534158508</id>
+      <id>https://streetwearness.com/it-gb/products/7498534158508</id>
       <title>41</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534158508</id>
+      <id>https://streetwearness.com/it-gb/products/7498534158508</id>
       <title>42</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534158508</id>
+      <id>https://streetwearness.com/it-gb/products/7498534158508</id>
       <title>43</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534158508</id>
+      <id>https://streetwearness.com/it-gb/products/7498534158508</id>
       <title>44</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534158508</id>
+      <id>https://streetwearness.com/it-gb/products/7498534158508</id>
       <title>45</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498534158508</id>
+      <id>https://streetwearness.com/it-gb/products/7498534158508</id>
       <title>46</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
@@ -1208,10 +1208,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://streetwearness.com/products/7498533863596</id>
+    <id>https://streetwearness.com/it-gb/products/7498533863596</id>
     <published>2022-10-18T16:54:01+02:00</published>
     <updated>2022-10-18T16:54:01+02:00</updated>
-    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/air-force-1-premium-gialle-1"/>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/it-gb/products/air-force-1-premium-gialle-1"/>
     <title>Air Force 1 Premium Total Black</title>
     <s:type></s:type>
     <s:vendor>Streetwearness</s:vendor>
@@ -1239,77 +1239,77 @@
 ]]>
     </summary>
     <s:variant>
-      <id>https://streetwearness.com/products/7498533863596</id>
+      <id>https://streetwearness.com/it-gb/products/7498533863596</id>
       <title>36</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498533863596</id>
+      <id>https://streetwearness.com/it-gb/products/7498533863596</id>
       <title>37</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498533863596</id>
+      <id>https://streetwearness.com/it-gb/products/7498533863596</id>
       <title>38</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498533863596</id>
+      <id>https://streetwearness.com/it-gb/products/7498533863596</id>
       <title>39</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498533863596</id>
+      <id>https://streetwearness.com/it-gb/products/7498533863596</id>
       <title>40</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498533863596</id>
+      <id>https://streetwearness.com/it-gb/products/7498533863596</id>
       <title>41</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498533863596</id>
+      <id>https://streetwearness.com/it-gb/products/7498533863596</id>
       <title>42</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498533863596</id>
+      <id>https://streetwearness.com/it-gb/products/7498533863596</id>
       <title>43</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498533863596</id>
+      <id>https://streetwearness.com/it-gb/products/7498533863596</id>
       <title>44</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498533863596</id>
+      <id>https://streetwearness.com/it-gb/products/7498533863596</id>
       <title>45</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498533863596</id>
+      <id>https://streetwearness.com/it-gb/products/7498533863596</id>
       <title>46</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
@@ -1317,10 +1317,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://streetwearness.com/products/7498533404844</id>
+    <id>https://streetwearness.com/it-gb/products/7498533404844</id>
     <published>2022-10-18T16:53:32+02:00</published>
     <updated>2022-10-18T16:53:32+02:00</updated>
-    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/air-force-1-premium-gialle"/>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/it-gb/products/air-force-1-premium-gialle"/>
     <title>Air Force 1 Premium Yellow</title>
     <s:type></s:type>
     <s:vendor>Streetwearness</s:vendor>
@@ -1348,77 +1348,77 @@
 ]]>
     </summary>
     <s:variant>
-      <id>https://streetwearness.com/products/7498533404844</id>
+      <id>https://streetwearness.com/it-gb/products/7498533404844</id>
       <title>36</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498533404844</id>
+      <id>https://streetwearness.com/it-gb/products/7498533404844</id>
       <title>37</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498533404844</id>
+      <id>https://streetwearness.com/it-gb/products/7498533404844</id>
       <title>38</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498533404844</id>
+      <id>https://streetwearness.com/it-gb/products/7498533404844</id>
       <title>39</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498533404844</id>
+      <id>https://streetwearness.com/it-gb/products/7498533404844</id>
       <title>40</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498533404844</id>
+      <id>https://streetwearness.com/it-gb/products/7498533404844</id>
       <title>41</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498533404844</id>
+      <id>https://streetwearness.com/it-gb/products/7498533404844</id>
       <title>42</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498533404844</id>
+      <id>https://streetwearness.com/it-gb/products/7498533404844</id>
       <title>43</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498533404844</id>
+      <id>https://streetwearness.com/it-gb/products/7498533404844</id>
       <title>44</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498533404844</id>
+      <id>https://streetwearness.com/it-gb/products/7498533404844</id>
       <title>45</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498533404844</id>
+      <id>https://streetwearness.com/it-gb/products/7498533404844</id>
       <title>46</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku/>
@@ -1426,10 +1426,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://streetwearness.com/products/7498532585644</id>
+    <id>https://streetwearness.com/it-gb/products/7498532585644</id>
     <published>2022-10-18T16:52:52+02:00</published>
     <updated>2022-10-18T16:52:52+02:00</updated>
-    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/air-force-1-premium-blu"/>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/it-gb/products/air-force-1-premium-blu"/>
     <title>Air Force 1 Premium Blu</title>
     <s:type></s:type>
     <s:vendor>Streetwearness</s:vendor>
@@ -1457,77 +1457,77 @@
 ]]>
     </summary>
     <s:variant>
-      <id>https://streetwearness.com/products/7498532585644</id>
+      <id>https://streetwearness.com/it-gb/products/7498532585644</id>
       <title>36</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498532585644</id>
+      <id>https://streetwearness.com/it-gb/products/7498532585644</id>
       <title>37</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498532585644</id>
+      <id>https://streetwearness.com/it-gb/products/7498532585644</id>
       <title>38</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498532585644</id>
+      <id>https://streetwearness.com/it-gb/products/7498532585644</id>
       <title>39</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498532585644</id>
+      <id>https://streetwearness.com/it-gb/products/7498532585644</id>
       <title>40</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498532585644</id>
+      <id>https://streetwearness.com/it-gb/products/7498532585644</id>
       <title>41</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498532585644</id>
+      <id>https://streetwearness.com/it-gb/products/7498532585644</id>
       <title>42</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498532585644</id>
+      <id>https://streetwearness.com/it-gb/products/7498532585644</id>
       <title>43</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498532585644</id>
+      <id>https://streetwearness.com/it-gb/products/7498532585644</id>
       <title>44</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498532585644</id>
+      <id>https://streetwearness.com/it-gb/products/7498532585644</id>
       <title>45</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7498532585644</id>
+      <id>https://streetwearness.com/it-gb/products/7498532585644</id>
       <title>46</title>
       <s:price currency="EUR">189.00</s:price>
       <s:sku></s:sku>
@@ -1535,10 +1535,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://streetwearness.com/products/7475522535596</id>
+    <id>https://streetwearness.com/it-gb/products/7475522535596</id>
     <published>2022-09-29T02:10:57+02:00</published>
     <updated>2022-09-29T02:10:57+02:00</updated>
-    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/nike-air-force-1-low-off-white"/>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/it-gb/products/nike-air-force-1-low-off-white"/>
     <title>Air Force 1 Low Off-White</title>
     <s:type></s:type>
     <s:vendor>streetwearness</s:vendor>
@@ -1563,77 +1563,77 @@
 ]]>
     </summary>
     <s:variant>
-      <id>https://streetwearness.com/products/7475522535596</id>
+      <id>https://streetwearness.com/it-gb/products/7475522535596</id>
       <title>36</title>
       <s:price currency="EUR">149.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7475522535596</id>
+      <id>https://streetwearness.com/it-gb/products/7475522535596</id>
       <title>37</title>
       <s:price currency="EUR">149.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7475522535596</id>
+      <id>https://streetwearness.com/it-gb/products/7475522535596</id>
       <title>38</title>
       <s:price currency="EUR">149.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7475522535596</id>
+      <id>https://streetwearness.com/it-gb/products/7475522535596</id>
       <title>39</title>
       <s:price currency="EUR">149.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7475522535596</id>
+      <id>https://streetwearness.com/it-gb/products/7475522535596</id>
       <title>40</title>
       <s:price currency="EUR">149.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7475522535596</id>
+      <id>https://streetwearness.com/it-gb/products/7475522535596</id>
       <title>41</title>
       <s:price currency="EUR">149.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7475522535596</id>
+      <id>https://streetwearness.com/it-gb/products/7475522535596</id>
       <title>42</title>
       <s:price currency="EUR">149.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7475522535596</id>
+      <id>https://streetwearness.com/it-gb/products/7475522535596</id>
       <title>43</title>
       <s:price currency="EUR">149.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7475522535596</id>
+      <id>https://streetwearness.com/it-gb/products/7475522535596</id>
       <title>44</title>
       <s:price currency="EUR">149.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7475522535596</id>
+      <id>https://streetwearness.com/it-gb/products/7475522535596</id>
       <title>45</title>
       <s:price currency="EUR">149.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7475522535596</id>
+      <id>https://streetwearness.com/it-gb/products/7475522535596</id>
       <title>46</title>
       <s:price currency="EUR">149.00</s:price>
       <s:sku></s:sku>
@@ -1641,10 +1641,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://streetwearness.com/products/7475522502828</id>
+    <id>https://streetwearness.com/it-gb/products/7475522502828</id>
     <published>2022-09-29T02:10:52+02:00</published>
     <updated>2022-09-29T02:10:52+02:00</updated>
-    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/nike-air-force-1-low-off-white-black"/>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/it-gb/products/nike-air-force-1-low-off-white-black"/>
     <title>Air Force 1 Low Off-White Black</title>
     <s:type></s:type>
     <s:vendor>streetwearness</s:vendor>
@@ -1669,77 +1669,77 @@
 ]]>
     </summary>
     <s:variant>
-      <id>https://streetwearness.com/products/7475522502828</id>
+      <id>https://streetwearness.com/it-gb/products/7475522502828</id>
       <title>36</title>
       <s:price currency="EUR">149.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7475522502828</id>
+      <id>https://streetwearness.com/it-gb/products/7475522502828</id>
       <title>37</title>
       <s:price currency="EUR">149.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7475522502828</id>
+      <id>https://streetwearness.com/it-gb/products/7475522502828</id>
       <title>38</title>
       <s:price currency="EUR">149.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7475522502828</id>
+      <id>https://streetwearness.com/it-gb/products/7475522502828</id>
       <title>39</title>
       <s:price currency="EUR">149.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7475522502828</id>
+      <id>https://streetwearness.com/it-gb/products/7475522502828</id>
       <title>40</title>
       <s:price currency="EUR">149.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7475522502828</id>
+      <id>https://streetwearness.com/it-gb/products/7475522502828</id>
       <title>41</title>
       <s:price currency="EUR">149.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7475522502828</id>
+      <id>https://streetwearness.com/it-gb/products/7475522502828</id>
       <title>42</title>
       <s:price currency="EUR">149.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7475522502828</id>
+      <id>https://streetwearness.com/it-gb/products/7475522502828</id>
       <title>43</title>
       <s:price currency="EUR">149.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7475522502828</id>
+      <id>https://streetwearness.com/it-gb/products/7475522502828</id>
       <title>44</title>
       <s:price currency="EUR">149.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7475522502828</id>
+      <id>https://streetwearness.com/it-gb/products/7475522502828</id>
       <title>45</title>
       <s:price currency="EUR">149.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7475522502828</id>
+      <id>https://streetwearness.com/it-gb/products/7475522502828</id>
       <title>46</title>
       <s:price currency="EUR">149.00</s:price>
       <s:sku></s:sku>
@@ -1747,10 +1747,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://streetwearness.com/products/7475522437292</id>
+    <id>https://streetwearness.com/it-gb/products/7475522437292</id>
     <published>2022-09-29T02:10:48+02:00</published>
     <updated>2022-09-29T02:10:48+02:00</updated>
-    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/nike-air-force-1-low-off-white-volt"/>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/it-gb/products/nike-air-force-1-low-off-white-volt"/>
     <title>Air Force 1 Low Off-White Volt</title>
     <s:type></s:type>
     <s:vendor>streetwearness</s:vendor>
@@ -1775,77 +1775,77 @@
 ]]>
     </summary>
     <s:variant>
-      <id>https://streetwearness.com/products/7475522437292</id>
+      <id>https://streetwearness.com/it-gb/products/7475522437292</id>
       <title>36</title>
       <s:price currency="EUR">149.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7475522437292</id>
+      <id>https://streetwearness.com/it-gb/products/7475522437292</id>
       <title>37</title>
       <s:price currency="EUR">149.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7475522437292</id>
+      <id>https://streetwearness.com/it-gb/products/7475522437292</id>
       <title>38</title>
       <s:price currency="EUR">149.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7475522437292</id>
+      <id>https://streetwearness.com/it-gb/products/7475522437292</id>
       <title>39</title>
       <s:price currency="EUR">149.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7475522437292</id>
+      <id>https://streetwearness.com/it-gb/products/7475522437292</id>
       <title>40</title>
       <s:price currency="EUR">149.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7475522437292</id>
+      <id>https://streetwearness.com/it-gb/products/7475522437292</id>
       <title>41</title>
       <s:price currency="EUR">149.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7475522437292</id>
+      <id>https://streetwearness.com/it-gb/products/7475522437292</id>
       <title>42</title>
       <s:price currency="EUR">149.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7475522437292</id>
+      <id>https://streetwearness.com/it-gb/products/7475522437292</id>
       <title>43</title>
       <s:price currency="EUR">149.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7475522437292</id>
+      <id>https://streetwearness.com/it-gb/products/7475522437292</id>
       <title>44</title>
       <s:price currency="EUR">149.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7475522437292</id>
+      <id>https://streetwearness.com/it-gb/products/7475522437292</id>
       <title>45</title>
       <s:price currency="EUR">149.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7475522437292</id>
+      <id>https://streetwearness.com/it-gb/products/7475522437292</id>
       <title>46</title>
       <s:price currency="EUR">149.00</s:price>
       <s:sku></s:sku>
@@ -1853,10 +1853,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://streetwearness.com/products/7475521716396</id>
+    <id>https://streetwearness.com/it-gb/products/7475521716396</id>
     <published>2022-09-29T02:09:23+02:00</published>
     <updated>2022-09-29T02:09:23+02:00</updated>
-    <link rel="alternate" type="text/html" href="https://streetwearness.com/products/nike-air-force-1-low-off-white-mca-university-blue"/>
+    <link rel="alternate" type="text/html" href="https://streetwearness.com/it-gb/products/nike-air-force-1-low-off-white-mca-university-blue"/>
     <title>Air Force 1 Low Off-White MCA University Blue</title>
     <s:type></s:type>
     <s:vendor>streetwearness</s:vendor>
@@ -1881,77 +1881,77 @@
 ]]>
     </summary>
     <s:variant>
-      <id>https://streetwearness.com/products/7475521716396</id>
+      <id>https://streetwearness.com/it-gb/products/7475521716396</id>
       <title>36</title>
       <s:price currency="EUR">149.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7475521716396</id>
+      <id>https://streetwearness.com/it-gb/products/7475521716396</id>
       <title>37</title>
       <s:price currency="EUR">149.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7475521716396</id>
+      <id>https://streetwearness.com/it-gb/products/7475521716396</id>
       <title>38</title>
       <s:price currency="EUR">149.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7475521716396</id>
+      <id>https://streetwearness.com/it-gb/products/7475521716396</id>
       <title>39</title>
       <s:price currency="EUR">149.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7475521716396</id>
+      <id>https://streetwearness.com/it-gb/products/7475521716396</id>
       <title>40</title>
       <s:price currency="EUR">149.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7475521716396</id>
+      <id>https://streetwearness.com/it-gb/products/7475521716396</id>
       <title>41</title>
       <s:price currency="EUR">149.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7475521716396</id>
+      <id>https://streetwearness.com/it-gb/products/7475521716396</id>
       <title>42</title>
       <s:price currency="EUR">149.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7475521716396</id>
+      <id>https://streetwearness.com/it-gb/products/7475521716396</id>
       <title>43</title>
       <s:price currency="EUR">149.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7475521716396</id>
+      <id>https://streetwearness.com/it-gb/products/7475521716396</id>
       <title>44</title>
       <s:price currency="EUR">149.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7475521716396</id>
+      <id>https://streetwearness.com/it-gb/products/7475521716396</id>
       <title>45</title>
       <s:price currency="EUR">149.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://streetwearness.com/products/7475521716396</id>
+      <id>https://streetwearness.com/it-gb/products/7475521716396</id>
       <title>46</title>
       <s:price currency="EUR">149.00</s:price>
       <s:sku></s:sku>
